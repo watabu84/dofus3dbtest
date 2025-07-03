@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 16493,
+    "name": "Gein's Belt",
+    "itemType": "Belt",
+    "level": 200
+  },
+  {
+    "_id": 16494,
+    "name": "Gein's Amulet",
+    "itemType": "Amulet",
+    "level": 200
+  },
+  {
+    "_id": 18604,
+    "name": "Sphincter Cell Ear",
+    "itemType": "Ear",
+    "level": 150
+  },
+  {
+    "_id": 18523,
+    "name": "Mahogany Pebble",
+    "itemType": "Pebble",
+    "level": 150
+  },
+  {
+    "_id": 17259,
+    "name": "Nileza Embroidery",
+    "itemType": "Clothing",
+    "level": 200
+  },
+  {
+    "_id": 18605,
+    "name": "Mecanofoux's Ear",
+    "itemType": "Ear",
+    "level": 200
+  },
+  {
+    "_id": 18524,
+    "name": "Cycloid Eye",
+    "itemType": "Eye",
+    "level": 200
+  }
+]

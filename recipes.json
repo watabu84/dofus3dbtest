@@ -1,0 +1,34 @@
+[
+  {
+    "_id": 21784,
+    "result": 16493,
+    "ingredients": [
+      {
+        "item": 18604,
+        "quantity": 5
+      },
+      {
+        "item": 18523,
+        "quantity": 3
+      },
+      {
+        "item": 17259,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "_id": 21785,
+    "result": 16494,
+    "ingredients": [
+      {
+        "item": 18605,
+        "quantity": 6
+      },
+      {
+        "item": 18524,
+        "quantity": 4
+      }
+    ]
+  }
+]
