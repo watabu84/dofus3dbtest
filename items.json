@@ -1,0 +1,9002 @@
+{
+  "Item 1": {
+    "id": 10001,
+    "type": "Equipment",
+    "level": 74,
+    "image": "https://example.com/images/item_10001.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 2": {
+    "id": 10002,
+    "type": "Consumable",
+    "level": 146,
+    "image": "https://example.com/images/item_10002.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 3": {
+    "id": 10003,
+    "type": "Resource",
+    "level": 60,
+    "image": "https://example.com/images/item_10003.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 4": {
+    "id": 10004,
+    "type": "Equipment",
+    "level": 140,
+    "image": "https://example.com/images/item_10004.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 5": {
+    "id": 10005,
+    "type": "Consumable",
+    "level": 156,
+    "image": "https://example.com/images/item_10005.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 6": {
+    "id": 10006,
+    "type": "Equipment",
+    "level": 81,
+    "image": "https://example.com/images/item_10006.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 7": {
+    "id": 10007,
+    "type": "Equipment",
+    "level": 59,
+    "image": "https://example.com/images/item_10007.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 8": {
+    "id": 10008,
+    "type": "Equipment",
+    "level": 153,
+    "image": "https://example.com/images/item_10008.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 9": {
+    "id": 10009,
+    "type": "Consumable",
+    "level": 179,
+    "image": "https://example.com/images/item_10009.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 10": {
+    "id": 10010,
+    "type": "Equipment",
+    "level": 91,
+    "image": "https://example.com/images/item_10010.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 11": {
+    "id": 10011,
+    "type": "Equipment",
+    "level": 33,
+    "image": "https://example.com/images/item_10011.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 12": {
+    "id": 10012,
+    "type": "Equipment",
+    "level": 164,
+    "image": "https://example.com/images/item_10012.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 13": {
+    "id": 10013,
+    "type": "Resource",
+    "level": 155,
+    "image": "https://example.com/images/item_10013.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 14": {
+    "id": 10014,
+    "type": "Resource",
+    "level": 129,
+    "image": "https://example.com/images/item_10014.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 15": {
+    "id": 10015,
+    "type": "Resource",
+    "level": 133,
+    "image": "https://example.com/images/item_10015.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 16": {
+    "id": 10016,
+    "type": "Consumable",
+    "level": 63,
+    "image": "https://example.com/images/item_10016.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 17": {
+    "id": 10017,
+    "type": "Equipment",
+    "level": 23,
+    "image": "https://example.com/images/item_10017.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 18": {
+    "id": 10018,
+    "type": "Consumable",
+    "level": 159,
+    "image": "https://example.com/images/item_10018.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 19": {
+    "id": 10019,
+    "type": "Consumable",
+    "level": 48,
+    "image": "https://example.com/images/item_10019.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 20": {
+    "id": 10020,
+    "type": "Resource",
+    "level": 58,
+    "image": "https://example.com/images/item_10020.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 21": {
+    "id": 10021,
+    "type": "Resource",
+    "level": 200,
+    "image": "https://example.com/images/item_10021.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 22": {
+    "id": 10022,
+    "type": "Resource",
+    "level": 181,
+    "image": "https://example.com/images/item_10022.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 23": {
+    "id": 10023,
+    "type": "Consumable",
+    "level": 29,
+    "image": "https://example.com/images/item_10023.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 24": {
+    "id": 10024,
+    "type": "Resource",
+    "level": 142,
+    "image": "https://example.com/images/item_10024.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 25": {
+    "id": 10025,
+    "type": "Resource",
+    "level": 119,
+    "image": "https://example.com/images/item_10025.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 26": {
+    "id": 10026,
+    "type": "Consumable",
+    "level": 73,
+    "image": "https://example.com/images/item_10026.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 27": {
+    "id": 10027,
+    "type": "Equipment",
+    "level": 179,
+    "image": "https://example.com/images/item_10027.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 28": {
+    "id": 10028,
+    "type": "Resource",
+    "level": 59,
+    "image": "https://example.com/images/item_10028.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 29": {
+    "id": 10029,
+    "type": "Consumable",
+    "level": 27,
+    "image": "https://example.com/images/item_10029.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 30": {
+    "id": 10030,
+    "type": "Consumable",
+    "level": 107,
+    "image": "https://example.com/images/item_10030.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 31": {
+    "id": 10031,
+    "type": "Resource",
+    "level": 128,
+    "image": "https://example.com/images/item_10031.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 32": {
+    "id": 10032,
+    "type": "Resource",
+    "level": 28,
+    "image": "https://example.com/images/item_10032.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 33": {
+    "id": 10033,
+    "type": "Consumable",
+    "level": 7,
+    "image": "https://example.com/images/item_10033.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 34": {
+    "id": 10034,
+    "type": "Resource",
+    "level": 55,
+    "image": "https://example.com/images/item_10034.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 35": {
+    "id": 10035,
+    "type": "Consumable",
+    "level": 200,
+    "image": "https://example.com/images/item_10035.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 36": {
+    "id": 10036,
+    "type": "Resource",
+    "level": 119,
+    "image": "https://example.com/images/item_10036.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 37": {
+    "id": 10037,
+    "type": "Equipment",
+    "level": 91,
+    "image": "https://example.com/images/item_10037.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 38": {
+    "id": 10038,
+    "type": "Consumable",
+    "level": 67,
+    "image": "https://example.com/images/item_10038.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 39": {
+    "id": 10039,
+    "type": "Resource",
+    "level": 19,
+    "image": "https://example.com/images/item_10039.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 40": {
+    "id": 10040,
+    "type": "Resource",
+    "level": 123,
+    "image": "https://example.com/images/item_10040.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 41": {
+    "id": 10041,
+    "type": "Consumable",
+    "level": 36,
+    "image": "https://example.com/images/item_10041.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 42": {
+    "id": 10042,
+    "type": "Resource",
+    "level": 194,
+    "image": "https://example.com/images/item_10042.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 43": {
+    "id": 10043,
+    "type": "Resource",
+    "level": 158,
+    "image": "https://example.com/images/item_10043.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 44": {
+    "id": 10044,
+    "type": "Consumable",
+    "level": 122,
+    "image": "https://example.com/images/item_10044.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 45": {
+    "id": 10045,
+    "type": "Consumable",
+    "level": 9,
+    "image": "https://example.com/images/item_10045.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 46": {
+    "id": 10046,
+    "type": "Consumable",
+    "level": 101,
+    "image": "https://example.com/images/item_10046.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 47": {
+    "id": 10047,
+    "type": "Equipment",
+    "level": 90,
+    "image": "https://example.com/images/item_10047.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 48": {
+    "id": 10048,
+    "type": "Consumable",
+    "level": 142,
+    "image": "https://example.com/images/item_10048.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 49": {
+    "id": 10049,
+    "type": "Equipment",
+    "level": 130,
+    "image": "https://example.com/images/item_10049.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 50": {
+    "id": 10050,
+    "type": "Consumable",
+    "level": 66,
+    "image": "https://example.com/images/item_10050.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 51": {
+    "id": 10051,
+    "type": "Equipment",
+    "level": 125,
+    "image": "https://example.com/images/item_10051.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 52": {
+    "id": 10052,
+    "type": "Resource",
+    "level": 177,
+    "image": "https://example.com/images/item_10052.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 53": {
+    "id": 10053,
+    "type": "Resource",
+    "level": 18,
+    "image": "https://example.com/images/item_10053.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 54": {
+    "id": 10054,
+    "type": "Resource",
+    "level": 136,
+    "image": "https://example.com/images/item_10054.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 55": {
+    "id": 10055,
+    "type": "Equipment",
+    "level": 74,
+    "image": "https://example.com/images/item_10055.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 56": {
+    "id": 10056,
+    "type": "Equipment",
+    "level": 52,
+    "image": "https://example.com/images/item_10056.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 57": {
+    "id": 10057,
+    "type": "Consumable",
+    "level": 6,
+    "image": "https://example.com/images/item_10057.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 58": {
+    "id": 10058,
+    "type": "Equipment",
+    "level": 37,
+    "image": "https://example.com/images/item_10058.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 59": {
+    "id": 10059,
+    "type": "Consumable",
+    "level": 115,
+    "image": "https://example.com/images/item_10059.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 60": {
+    "id": 10060,
+    "type": "Resource",
+    "level": 139,
+    "image": "https://example.com/images/item_10060.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 61": {
+    "id": 10061,
+    "type": "Resource",
+    "level": 94,
+    "image": "https://example.com/images/item_10061.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 62": {
+    "id": 10062,
+    "type": "Resource",
+    "level": 141,
+    "image": "https://example.com/images/item_10062.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 63": {
+    "id": 10063,
+    "type": "Consumable",
+    "level": 88,
+    "image": "https://example.com/images/item_10063.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 64": {
+    "id": 10064,
+    "type": "Resource",
+    "level": 48,
+    "image": "https://example.com/images/item_10064.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 65": {
+    "id": 10065,
+    "type": "Consumable",
+    "level": 47,
+    "image": "https://example.com/images/item_10065.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 66": {
+    "id": 10066,
+    "type": "Consumable",
+    "level": 34,
+    "image": "https://example.com/images/item_10066.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 67": {
+    "id": 10067,
+    "type": "Resource",
+    "level": 141,
+    "image": "https://example.com/images/item_10067.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 68": {
+    "id": 10068,
+    "type": "Equipment",
+    "level": 119,
+    "image": "https://example.com/images/item_10068.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 69": {
+    "id": 10069,
+    "type": "Equipment",
+    "level": 187,
+    "image": "https://example.com/images/item_10069.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 70": {
+    "id": 10070,
+    "type": "Equipment",
+    "level": 33,
+    "image": "https://example.com/images/item_10070.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 71": {
+    "id": 10071,
+    "type": "Resource",
+    "level": 4,
+    "image": "https://example.com/images/item_10071.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 72": {
+    "id": 10072,
+    "type": "Resource",
+    "level": 183,
+    "image": "https://example.com/images/item_10072.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 73": {
+    "id": 10073,
+    "type": "Consumable",
+    "level": 199,
+    "image": "https://example.com/images/item_10073.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 74": {
+    "id": 10074,
+    "type": "Consumable",
+    "level": 61,
+    "image": "https://example.com/images/item_10074.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 75": {
+    "id": 10075,
+    "type": "Equipment",
+    "level": 161,
+    "image": "https://example.com/images/item_10075.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 76": {
+    "id": 10076,
+    "type": "Equipment",
+    "level": 58,
+    "image": "https://example.com/images/item_10076.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 77": {
+    "id": 10077,
+    "type": "Equipment",
+    "level": 60,
+    "image": "https://example.com/images/item_10077.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 78": {
+    "id": 10078,
+    "type": "Resource",
+    "level": 107,
+    "image": "https://example.com/images/item_10078.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 79": {
+    "id": 10079,
+    "type": "Consumable",
+    "level": 192,
+    "image": "https://example.com/images/item_10079.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 80": {
+    "id": 10080,
+    "type": "Resource",
+    "level": 71,
+    "image": "https://example.com/images/item_10080.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 81": {
+    "id": 10081,
+    "type": "Equipment",
+    "level": 93,
+    "image": "https://example.com/images/item_10081.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 82": {
+    "id": 10082,
+    "type": "Resource",
+    "level": 38,
+    "image": "https://example.com/images/item_10082.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 83": {
+    "id": 10083,
+    "type": "Resource",
+    "level": 86,
+    "image": "https://example.com/images/item_10083.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 84": {
+    "id": 10084,
+    "type": "Consumable",
+    "level": 49,
+    "image": "https://example.com/images/item_10084.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 85": {
+    "id": 10085,
+    "type": "Consumable",
+    "level": 22,
+    "image": "https://example.com/images/item_10085.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 86": {
+    "id": 10086,
+    "type": "Consumable",
+    "level": 93,
+    "image": "https://example.com/images/item_10086.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 87": {
+    "id": 10087,
+    "type": "Equipment",
+    "level": 183,
+    "image": "https://example.com/images/item_10087.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 88": {
+    "id": 10088,
+    "type": "Consumable",
+    "level": 68,
+    "image": "https://example.com/images/item_10088.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 89": {
+    "id": 10089,
+    "type": "Equipment",
+    "level": 198,
+    "image": "https://example.com/images/item_10089.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 90": {
+    "id": 10090,
+    "type": "Resource",
+    "level": 187,
+    "image": "https://example.com/images/item_10090.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 91": {
+    "id": 10091,
+    "type": "Resource",
+    "level": 134,
+    "image": "https://example.com/images/item_10091.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 92": {
+    "id": 10092,
+    "type": "Resource",
+    "level": 62,
+    "image": "https://example.com/images/item_10092.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 93": {
+    "id": 10093,
+    "type": "Consumable",
+    "level": 110,
+    "image": "https://example.com/images/item_10093.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 94": {
+    "id": 10094,
+    "type": "Resource",
+    "level": 76,
+    "image": "https://example.com/images/item_10094.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 95": {
+    "id": 10095,
+    "type": "Consumable",
+    "level": 81,
+    "image": "https://example.com/images/item_10095.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 96": {
+    "id": 10096,
+    "type": "Consumable",
+    "level": 13,
+    "image": "https://example.com/images/item_10096.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 97": {
+    "id": 10097,
+    "type": "Resource",
+    "level": 55,
+    "image": "https://example.com/images/item_10097.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 98": {
+    "id": 10098,
+    "type": "Equipment",
+    "level": 86,
+    "image": "https://example.com/images/item_10098.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 99": {
+    "id": 10099,
+    "type": "Consumable",
+    "level": 2,
+    "image": "https://example.com/images/item_10099.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 100": {
+    "id": 10100,
+    "type": "Equipment",
+    "level": 108,
+    "image": "https://example.com/images/item_10100.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 101": {
+    "id": 10101,
+    "type": "Consumable",
+    "level": 74,
+    "image": "https://example.com/images/item_10101.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 102": {
+    "id": 10102,
+    "type": "Resource",
+    "level": 2,
+    "image": "https://example.com/images/item_10102.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 103": {
+    "id": 10103,
+    "type": "Consumable",
+    "level": 86,
+    "image": "https://example.com/images/item_10103.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 104": {
+    "id": 10104,
+    "type": "Equipment",
+    "level": 133,
+    "image": "https://example.com/images/item_10104.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 105": {
+    "id": 10105,
+    "type": "Consumable",
+    "level": 163,
+    "image": "https://example.com/images/item_10105.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 106": {
+    "id": 10106,
+    "type": "Equipment",
+    "level": 172,
+    "image": "https://example.com/images/item_10106.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 107": {
+    "id": 10107,
+    "type": "Resource",
+    "level": 62,
+    "image": "https://example.com/images/item_10107.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 108": {
+    "id": 10108,
+    "type": "Resource",
+    "level": 146,
+    "image": "https://example.com/images/item_10108.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 109": {
+    "id": 10109,
+    "type": "Equipment",
+    "level": 56,
+    "image": "https://example.com/images/item_10109.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 110": {
+    "id": 10110,
+    "type": "Consumable",
+    "level": 184,
+    "image": "https://example.com/images/item_10110.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 111": {
+    "id": 10111,
+    "type": "Equipment",
+    "level": 65,
+    "image": "https://example.com/images/item_10111.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 112": {
+    "id": 10112,
+    "type": "Resource",
+    "level": 56,
+    "image": "https://example.com/images/item_10112.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 113": {
+    "id": 10113,
+    "type": "Resource",
+    "level": 12,
+    "image": "https://example.com/images/item_10113.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 114": {
+    "id": 10114,
+    "type": "Consumable",
+    "level": 182,
+    "image": "https://example.com/images/item_10114.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 115": {
+    "id": 10115,
+    "type": "Consumable",
+    "level": 174,
+    "image": "https://example.com/images/item_10115.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 116": {
+    "id": 10116,
+    "type": "Equipment",
+    "level": 77,
+    "image": "https://example.com/images/item_10116.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 117": {
+    "id": 10117,
+    "type": "Equipment",
+    "level": 198,
+    "image": "https://example.com/images/item_10117.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 118": {
+    "id": 10118,
+    "type": "Equipment",
+    "level": 13,
+    "image": "https://example.com/images/item_10118.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 119": {
+    "id": 10119,
+    "type": "Equipment",
+    "level": 144,
+    "image": "https://example.com/images/item_10119.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 120": {
+    "id": 10120,
+    "type": "Consumable",
+    "level": 81,
+    "image": "https://example.com/images/item_10120.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 121": {
+    "id": 10121,
+    "type": "Resource",
+    "level": 85,
+    "image": "https://example.com/images/item_10121.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 122": {
+    "id": 10122,
+    "type": "Resource",
+    "level": 132,
+    "image": "https://example.com/images/item_10122.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 123": {
+    "id": 10123,
+    "type": "Equipment",
+    "level": 174,
+    "image": "https://example.com/images/item_10123.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 124": {
+    "id": 10124,
+    "type": "Equipment",
+    "level": 44,
+    "image": "https://example.com/images/item_10124.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 125": {
+    "id": 10125,
+    "type": "Resource",
+    "level": 106,
+    "image": "https://example.com/images/item_10125.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 126": {
+    "id": 10126,
+    "type": "Consumable",
+    "level": 68,
+    "image": "https://example.com/images/item_10126.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 127": {
+    "id": 10127,
+    "type": "Equipment",
+    "level": 99,
+    "image": "https://example.com/images/item_10127.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 128": {
+    "id": 10128,
+    "type": "Consumable",
+    "level": 21,
+    "image": "https://example.com/images/item_10128.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 129": {
+    "id": 10129,
+    "type": "Equipment",
+    "level": 67,
+    "image": "https://example.com/images/item_10129.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 130": {
+    "id": 10130,
+    "type": "Consumable",
+    "level": 15,
+    "image": "https://example.com/images/item_10130.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 131": {
+    "id": 10131,
+    "type": "Equipment",
+    "level": 133,
+    "image": "https://example.com/images/item_10131.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 132": {
+    "id": 10132,
+    "type": "Consumable",
+    "level": 6,
+    "image": "https://example.com/images/item_10132.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 133": {
+    "id": 10133,
+    "type": "Consumable",
+    "level": 155,
+    "image": "https://example.com/images/item_10133.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 134": {
+    "id": 10134,
+    "type": "Equipment",
+    "level": 80,
+    "image": "https://example.com/images/item_10134.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 135": {
+    "id": 10135,
+    "type": "Consumable",
+    "level": 69,
+    "image": "https://example.com/images/item_10135.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 136": {
+    "id": 10136,
+    "type": "Resource",
+    "level": 52,
+    "image": "https://example.com/images/item_10136.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 137": {
+    "id": 10137,
+    "type": "Consumable",
+    "level": 168,
+    "image": "https://example.com/images/item_10137.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 138": {
+    "id": 10138,
+    "type": "Equipment",
+    "level": 193,
+    "image": "https://example.com/images/item_10138.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 139": {
+    "id": 10139,
+    "type": "Resource",
+    "level": 186,
+    "image": "https://example.com/images/item_10139.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 140": {
+    "id": 10140,
+    "type": "Resource",
+    "level": 193,
+    "image": "https://example.com/images/item_10140.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 141": {
+    "id": 10141,
+    "type": "Consumable",
+    "level": 134,
+    "image": "https://example.com/images/item_10141.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 142": {
+    "id": 10142,
+    "type": "Consumable",
+    "level": 133,
+    "image": "https://example.com/images/item_10142.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 143": {
+    "id": 10143,
+    "type": "Equipment",
+    "level": 42,
+    "image": "https://example.com/images/item_10143.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 144": {
+    "id": 10144,
+    "type": "Resource",
+    "level": 7,
+    "image": "https://example.com/images/item_10144.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 145": {
+    "id": 10145,
+    "type": "Consumable",
+    "level": 80,
+    "image": "https://example.com/images/item_10145.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 146": {
+    "id": 10146,
+    "type": "Resource",
+    "level": 142,
+    "image": "https://example.com/images/item_10146.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 147": {
+    "id": 10147,
+    "type": "Resource",
+    "level": 75,
+    "image": "https://example.com/images/item_10147.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 148": {
+    "id": 10148,
+    "type": "Consumable",
+    "level": 160,
+    "image": "https://example.com/images/item_10148.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 149": {
+    "id": 10149,
+    "type": "Resource",
+    "level": 142,
+    "image": "https://example.com/images/item_10149.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 150": {
+    "id": 10150,
+    "type": "Resource",
+    "level": 89,
+    "image": "https://example.com/images/item_10150.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 151": {
+    "id": 10151,
+    "type": "Consumable",
+    "level": 149,
+    "image": "https://example.com/images/item_10151.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 152": {
+    "id": 10152,
+    "type": "Equipment",
+    "level": 112,
+    "image": "https://example.com/images/item_10152.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 153": {
+    "id": 10153,
+    "type": "Equipment",
+    "level": 109,
+    "image": "https://example.com/images/item_10153.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 154": {
+    "id": 10154,
+    "type": "Resource",
+    "level": 174,
+    "image": "https://example.com/images/item_10154.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 155": {
+    "id": 10155,
+    "type": "Resource",
+    "level": 115,
+    "image": "https://example.com/images/item_10155.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 156": {
+    "id": 10156,
+    "type": "Consumable",
+    "level": 107,
+    "image": "https://example.com/images/item_10156.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 157": {
+    "id": 10157,
+    "type": "Consumable",
+    "level": 76,
+    "image": "https://example.com/images/item_10157.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 158": {
+    "id": 10158,
+    "type": "Consumable",
+    "level": 120,
+    "image": "https://example.com/images/item_10158.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 159": {
+    "id": 10159,
+    "type": "Equipment",
+    "level": 178,
+    "image": "https://example.com/images/item_10159.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 160": {
+    "id": 10160,
+    "type": "Resource",
+    "level": 130,
+    "image": "https://example.com/images/item_10160.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 161": {
+    "id": 10161,
+    "type": "Consumable",
+    "level": 86,
+    "image": "https://example.com/images/item_10161.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 162": {
+    "id": 10162,
+    "type": "Consumable",
+    "level": 179,
+    "image": "https://example.com/images/item_10162.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 163": {
+    "id": 10163,
+    "type": "Equipment",
+    "level": 119,
+    "image": "https://example.com/images/item_10163.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 164": {
+    "id": 10164,
+    "type": "Consumable",
+    "level": 148,
+    "image": "https://example.com/images/item_10164.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 165": {
+    "id": 10165,
+    "type": "Consumable",
+    "level": 110,
+    "image": "https://example.com/images/item_10165.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 166": {
+    "id": 10166,
+    "type": "Resource",
+    "level": 133,
+    "image": "https://example.com/images/item_10166.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 167": {
+    "id": 10167,
+    "type": "Equipment",
+    "level": 16,
+    "image": "https://example.com/images/item_10167.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 168": {
+    "id": 10168,
+    "type": "Resource",
+    "level": 24,
+    "image": "https://example.com/images/item_10168.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 169": {
+    "id": 10169,
+    "type": "Equipment",
+    "level": 90,
+    "image": "https://example.com/images/item_10169.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 170": {
+    "id": 10170,
+    "type": "Resource",
+    "level": 96,
+    "image": "https://example.com/images/item_10170.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 171": {
+    "id": 10171,
+    "type": "Resource",
+    "level": 8,
+    "image": "https://example.com/images/item_10171.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 172": {
+    "id": 10172,
+    "type": "Consumable",
+    "level": 101,
+    "image": "https://example.com/images/item_10172.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 173": {
+    "id": 10173,
+    "type": "Equipment",
+    "level": 186,
+    "image": "https://example.com/images/item_10173.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 174": {
+    "id": 10174,
+    "type": "Resource",
+    "level": 120,
+    "image": "https://example.com/images/item_10174.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 175": {
+    "id": 10175,
+    "type": "Resource",
+    "level": 60,
+    "image": "https://example.com/images/item_10175.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 176": {
+    "id": 10176,
+    "type": "Equipment",
+    "level": 69,
+    "image": "https://example.com/images/item_10176.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 177": {
+    "id": 10177,
+    "type": "Consumable",
+    "level": 63,
+    "image": "https://example.com/images/item_10177.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 178": {
+    "id": 10178,
+    "type": "Consumable",
+    "level": 172,
+    "image": "https://example.com/images/item_10178.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 179": {
+    "id": 10179,
+    "type": "Consumable",
+    "level": 91,
+    "image": "https://example.com/images/item_10179.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 180": {
+    "id": 10180,
+    "type": "Equipment",
+    "level": 25,
+    "image": "https://example.com/images/item_10180.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 181": {
+    "id": 10181,
+    "type": "Resource",
+    "level": 39,
+    "image": "https://example.com/images/item_10181.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 182": {
+    "id": 10182,
+    "type": "Resource",
+    "level": 51,
+    "image": "https://example.com/images/item_10182.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 183": {
+    "id": 10183,
+    "type": "Resource",
+    "level": 2,
+    "image": "https://example.com/images/item_10183.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 184": {
+    "id": 10184,
+    "type": "Equipment",
+    "level": 110,
+    "image": "https://example.com/images/item_10184.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 185": {
+    "id": 10185,
+    "type": "Resource",
+    "level": 61,
+    "image": "https://example.com/images/item_10185.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 186": {
+    "id": 10186,
+    "type": "Resource",
+    "level": 184,
+    "image": "https://example.com/images/item_10186.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 187": {
+    "id": 10187,
+    "type": "Resource",
+    "level": 24,
+    "image": "https://example.com/images/item_10187.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 188": {
+    "id": 10188,
+    "type": "Equipment",
+    "level": 60,
+    "image": "https://example.com/images/item_10188.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 189": {
+    "id": 10189,
+    "type": "Consumable",
+    "level": 22,
+    "image": "https://example.com/images/item_10189.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 190": {
+    "id": 10190,
+    "type": "Resource",
+    "level": 152,
+    "image": "https://example.com/images/item_10190.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 191": {
+    "id": 10191,
+    "type": "Resource",
+    "level": 96,
+    "image": "https://example.com/images/item_10191.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 192": {
+    "id": 10192,
+    "type": "Consumable",
+    "level": 187,
+    "image": "https://example.com/images/item_10192.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 193": {
+    "id": 10193,
+    "type": "Consumable",
+    "level": 48,
+    "image": "https://example.com/images/item_10193.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 194": {
+    "id": 10194,
+    "type": "Resource",
+    "level": 121,
+    "image": "https://example.com/images/item_10194.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 195": {
+    "id": 10195,
+    "type": "Resource",
+    "level": 34,
+    "image": "https://example.com/images/item_10195.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 196": {
+    "id": 10196,
+    "type": "Consumable",
+    "level": 192,
+    "image": "https://example.com/images/item_10196.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 197": {
+    "id": 10197,
+    "type": "Equipment",
+    "level": 101,
+    "image": "https://example.com/images/item_10197.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 198": {
+    "id": 10198,
+    "type": "Equipment",
+    "level": 164,
+    "image": "https://example.com/images/item_10198.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 199": {
+    "id": 10199,
+    "type": "Resource",
+    "level": 110,
+    "image": "https://example.com/images/item_10199.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 200": {
+    "id": 10200,
+    "type": "Resource",
+    "level": 62,
+    "image": "https://example.com/images/item_10200.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 201": {
+    "id": 10201,
+    "type": "Resource",
+    "level": 42,
+    "image": "https://example.com/images/item_10201.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 202": {
+    "id": 10202,
+    "type": "Equipment",
+    "level": 89,
+    "image": "https://example.com/images/item_10202.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 203": {
+    "id": 10203,
+    "type": "Consumable",
+    "level": 149,
+    "image": "https://example.com/images/item_10203.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 204": {
+    "id": 10204,
+    "type": "Consumable",
+    "level": 189,
+    "image": "https://example.com/images/item_10204.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 205": {
+    "id": 10205,
+    "type": "Resource",
+    "level": 60,
+    "image": "https://example.com/images/item_10205.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 206": {
+    "id": 10206,
+    "type": "Consumable",
+    "level": 159,
+    "image": "https://example.com/images/item_10206.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 207": {
+    "id": 10207,
+    "type": "Consumable",
+    "level": 153,
+    "image": "https://example.com/images/item_10207.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 208": {
+    "id": 10208,
+    "type": "Consumable",
+    "level": 29,
+    "image": "https://example.com/images/item_10208.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 209": {
+    "id": 10209,
+    "type": "Consumable",
+    "level": 127,
+    "image": "https://example.com/images/item_10209.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 210": {
+    "id": 10210,
+    "type": "Consumable",
+    "level": 140,
+    "image": "https://example.com/images/item_10210.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 211": {
+    "id": 10211,
+    "type": "Consumable",
+    "level": 156,
+    "image": "https://example.com/images/item_10211.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 212": {
+    "id": 10212,
+    "type": "Resource",
+    "level": 20,
+    "image": "https://example.com/images/item_10212.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 213": {
+    "id": 10213,
+    "type": "Resource",
+    "level": 55,
+    "image": "https://example.com/images/item_10213.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 214": {
+    "id": 10214,
+    "type": "Equipment",
+    "level": 91,
+    "image": "https://example.com/images/item_10214.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 215": {
+    "id": 10215,
+    "type": "Consumable",
+    "level": 95,
+    "image": "https://example.com/images/item_10215.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 216": {
+    "id": 10216,
+    "type": "Consumable",
+    "level": 52,
+    "image": "https://example.com/images/item_10216.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 217": {
+    "id": 10217,
+    "type": "Equipment",
+    "level": 151,
+    "image": "https://example.com/images/item_10217.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 218": {
+    "id": 10218,
+    "type": "Equipment",
+    "level": 110,
+    "image": "https://example.com/images/item_10218.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 219": {
+    "id": 10219,
+    "type": "Consumable",
+    "level": 63,
+    "image": "https://example.com/images/item_10219.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 220": {
+    "id": 10220,
+    "type": "Consumable",
+    "level": 158,
+    "image": "https://example.com/images/item_10220.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 221": {
+    "id": 10221,
+    "type": "Equipment",
+    "level": 152,
+    "image": "https://example.com/images/item_10221.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 222": {
+    "id": 10222,
+    "type": "Consumable",
+    "level": 73,
+    "image": "https://example.com/images/item_10222.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 223": {
+    "id": 10223,
+    "type": "Consumable",
+    "level": 142,
+    "image": "https://example.com/images/item_10223.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 224": {
+    "id": 10224,
+    "type": "Equipment",
+    "level": 145,
+    "image": "https://example.com/images/item_10224.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 225": {
+    "id": 10225,
+    "type": "Resource",
+    "level": 132,
+    "image": "https://example.com/images/item_10225.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 226": {
+    "id": 10226,
+    "type": "Equipment",
+    "level": 84,
+    "image": "https://example.com/images/item_10226.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 227": {
+    "id": 10227,
+    "type": "Equipment",
+    "level": 179,
+    "image": "https://example.com/images/item_10227.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 228": {
+    "id": 10228,
+    "type": "Equipment",
+    "level": 108,
+    "image": "https://example.com/images/item_10228.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 229": {
+    "id": 10229,
+    "type": "Consumable",
+    "level": 33,
+    "image": "https://example.com/images/item_10229.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 230": {
+    "id": 10230,
+    "type": "Resource",
+    "level": 48,
+    "image": "https://example.com/images/item_10230.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 231": {
+    "id": 10231,
+    "type": "Resource",
+    "level": 44,
+    "image": "https://example.com/images/item_10231.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 232": {
+    "id": 10232,
+    "type": "Consumable",
+    "level": 20,
+    "image": "https://example.com/images/item_10232.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 233": {
+    "id": 10233,
+    "type": "Consumable",
+    "level": 76,
+    "image": "https://example.com/images/item_10233.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 234": {
+    "id": 10234,
+    "type": "Resource",
+    "level": 76,
+    "image": "https://example.com/images/item_10234.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 235": {
+    "id": 10235,
+    "type": "Consumable",
+    "level": 136,
+    "image": "https://example.com/images/item_10235.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 236": {
+    "id": 10236,
+    "type": "Resource",
+    "level": 21,
+    "image": "https://example.com/images/item_10236.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 237": {
+    "id": 10237,
+    "type": "Resource",
+    "level": 44,
+    "image": "https://example.com/images/item_10237.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 238": {
+    "id": 10238,
+    "type": "Resource",
+    "level": 57,
+    "image": "https://example.com/images/item_10238.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 239": {
+    "id": 10239,
+    "type": "Resource",
+    "level": 86,
+    "image": "https://example.com/images/item_10239.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 240": {
+    "id": 10240,
+    "type": "Resource",
+    "level": 169,
+    "image": "https://example.com/images/item_10240.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 241": {
+    "id": 10241,
+    "type": "Consumable",
+    "level": 6,
+    "image": "https://example.com/images/item_10241.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 242": {
+    "id": 10242,
+    "type": "Resource",
+    "level": 45,
+    "image": "https://example.com/images/item_10242.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 243": {
+    "id": 10243,
+    "type": "Equipment",
+    "level": 117,
+    "image": "https://example.com/images/item_10243.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 244": {
+    "id": 10244,
+    "type": "Equipment",
+    "level": 118,
+    "image": "https://example.com/images/item_10244.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 245": {
+    "id": 10245,
+    "type": "Equipment",
+    "level": 49,
+    "image": "https://example.com/images/item_10245.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 246": {
+    "id": 10246,
+    "type": "Resource",
+    "level": 148,
+    "image": "https://example.com/images/item_10246.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 247": {
+    "id": 10247,
+    "type": "Equipment",
+    "level": 56,
+    "image": "https://example.com/images/item_10247.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 248": {
+    "id": 10248,
+    "type": "Consumable",
+    "level": 55,
+    "image": "https://example.com/images/item_10248.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 249": {
+    "id": 10249,
+    "type": "Equipment",
+    "level": 38,
+    "image": "https://example.com/images/item_10249.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 250": {
+    "id": 10250,
+    "type": "Resource",
+    "level": 80,
+    "image": "https://example.com/images/item_10250.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 251": {
+    "id": 10251,
+    "type": "Resource",
+    "level": 29,
+    "image": "https://example.com/images/item_10251.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 252": {
+    "id": 10252,
+    "type": "Equipment",
+    "level": 25,
+    "image": "https://example.com/images/item_10252.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 253": {
+    "id": 10253,
+    "type": "Consumable",
+    "level": 3,
+    "image": "https://example.com/images/item_10253.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 254": {
+    "id": 10254,
+    "type": "Resource",
+    "level": 114,
+    "image": "https://example.com/images/item_10254.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 255": {
+    "id": 10255,
+    "type": "Consumable",
+    "level": 100,
+    "image": "https://example.com/images/item_10255.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 256": {
+    "id": 10256,
+    "type": "Consumable",
+    "level": 52,
+    "image": "https://example.com/images/item_10256.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 257": {
+    "id": 10257,
+    "type": "Equipment",
+    "level": 95,
+    "image": "https://example.com/images/item_10257.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 258": {
+    "id": 10258,
+    "type": "Consumable",
+    "level": 151,
+    "image": "https://example.com/images/item_10258.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 259": {
+    "id": 10259,
+    "type": "Resource",
+    "level": 185,
+    "image": "https://example.com/images/item_10259.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 260": {
+    "id": 10260,
+    "type": "Equipment",
+    "level": 143,
+    "image": "https://example.com/images/item_10260.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 261": {
+    "id": 10261,
+    "type": "Equipment",
+    "level": 180,
+    "image": "https://example.com/images/item_10261.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 262": {
+    "id": 10262,
+    "type": "Equipment",
+    "level": 193,
+    "image": "https://example.com/images/item_10262.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 263": {
+    "id": 10263,
+    "type": "Consumable",
+    "level": 121,
+    "image": "https://example.com/images/item_10263.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 264": {
+    "id": 10264,
+    "type": "Consumable",
+    "level": 67,
+    "image": "https://example.com/images/item_10264.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 265": {
+    "id": 10265,
+    "type": "Resource",
+    "level": 148,
+    "image": "https://example.com/images/item_10265.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 266": {
+    "id": 10266,
+    "type": "Equipment",
+    "level": 158,
+    "image": "https://example.com/images/item_10266.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 267": {
+    "id": 10267,
+    "type": "Consumable",
+    "level": 21,
+    "image": "https://example.com/images/item_10267.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 268": {
+    "id": 10268,
+    "type": "Equipment",
+    "level": 24,
+    "image": "https://example.com/images/item_10268.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 269": {
+    "id": 10269,
+    "type": "Resource",
+    "level": 31,
+    "image": "https://example.com/images/item_10269.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 270": {
+    "id": 10270,
+    "type": "Resource",
+    "level": 58,
+    "image": "https://example.com/images/item_10270.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 271": {
+    "id": 10271,
+    "type": "Equipment",
+    "level": 61,
+    "image": "https://example.com/images/item_10271.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 272": {
+    "id": 10272,
+    "type": "Equipment",
+    "level": 39,
+    "image": "https://example.com/images/item_10272.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 273": {
+    "id": 10273,
+    "type": "Equipment",
+    "level": 194,
+    "image": "https://example.com/images/item_10273.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 274": {
+    "id": 10274,
+    "type": "Consumable",
+    "level": 157,
+    "image": "https://example.com/images/item_10274.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 275": {
+    "id": 10275,
+    "type": "Equipment",
+    "level": 106,
+    "image": "https://example.com/images/item_10275.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 276": {
+    "id": 10276,
+    "type": "Equipment",
+    "level": 70,
+    "image": "https://example.com/images/item_10276.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 277": {
+    "id": 10277,
+    "type": "Equipment",
+    "level": 87,
+    "image": "https://example.com/images/item_10277.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 278": {
+    "id": 10278,
+    "type": "Resource",
+    "level": 137,
+    "image": "https://example.com/images/item_10278.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 279": {
+    "id": 10279,
+    "type": "Equipment",
+    "level": 76,
+    "image": "https://example.com/images/item_10279.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 280": {
+    "id": 10280,
+    "type": "Equipment",
+    "level": 188,
+    "image": "https://example.com/images/item_10280.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 281": {
+    "id": 10281,
+    "type": "Resource",
+    "level": 45,
+    "image": "https://example.com/images/item_10281.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 282": {
+    "id": 10282,
+    "type": "Consumable",
+    "level": 69,
+    "image": "https://example.com/images/item_10282.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 283": {
+    "id": 10283,
+    "type": "Consumable",
+    "level": 15,
+    "image": "https://example.com/images/item_10283.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 284": {
+    "id": 10284,
+    "type": "Consumable",
+    "level": 137,
+    "image": "https://example.com/images/item_10284.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 285": {
+    "id": 10285,
+    "type": "Equipment",
+    "level": 1,
+    "image": "https://example.com/images/item_10285.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 286": {
+    "id": 10286,
+    "type": "Equipment",
+    "level": 149,
+    "image": "https://example.com/images/item_10286.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 287": {
+    "id": 10287,
+    "type": "Resource",
+    "level": 128,
+    "image": "https://example.com/images/item_10287.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 288": {
+    "id": 10288,
+    "type": "Resource",
+    "level": 143,
+    "image": "https://example.com/images/item_10288.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 289": {
+    "id": 10289,
+    "type": "Equipment",
+    "level": 179,
+    "image": "https://example.com/images/item_10289.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 290": {
+    "id": 10290,
+    "type": "Equipment",
+    "level": 97,
+    "image": "https://example.com/images/item_10290.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 291": {
+    "id": 10291,
+    "type": "Equipment",
+    "level": 34,
+    "image": "https://example.com/images/item_10291.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 292": {
+    "id": 10292,
+    "type": "Resource",
+    "level": 5,
+    "image": "https://example.com/images/item_10292.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 293": {
+    "id": 10293,
+    "type": "Resource",
+    "level": 60,
+    "image": "https://example.com/images/item_10293.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 294": {
+    "id": 10294,
+    "type": "Resource",
+    "level": 163,
+    "image": "https://example.com/images/item_10294.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 295": {
+    "id": 10295,
+    "type": "Resource",
+    "level": 192,
+    "image": "https://example.com/images/item_10295.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 296": {
+    "id": 10296,
+    "type": "Resource",
+    "level": 87,
+    "image": "https://example.com/images/item_10296.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 297": {
+    "id": 10297,
+    "type": "Equipment",
+    "level": 117,
+    "image": "https://example.com/images/item_10297.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 298": {
+    "id": 10298,
+    "type": "Consumable",
+    "level": 20,
+    "image": "https://example.com/images/item_10298.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 299": {
+    "id": 10299,
+    "type": "Consumable",
+    "level": 9,
+    "image": "https://example.com/images/item_10299.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 300": {
+    "id": 10300,
+    "type": "Consumable",
+    "level": 14,
+    "image": "https://example.com/images/item_10300.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 301": {
+    "id": 10301,
+    "type": "Resource",
+    "level": 4,
+    "image": "https://example.com/images/item_10301.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 302": {
+    "id": 10302,
+    "type": "Consumable",
+    "level": 178,
+    "image": "https://example.com/images/item_10302.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 303": {
+    "id": 10303,
+    "type": "Equipment",
+    "level": 107,
+    "image": "https://example.com/images/item_10303.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 304": {
+    "id": 10304,
+    "type": "Equipment",
+    "level": 121,
+    "image": "https://example.com/images/item_10304.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 305": {
+    "id": 10305,
+    "type": "Resource",
+    "level": 99,
+    "image": "https://example.com/images/item_10305.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 306": {
+    "id": 10306,
+    "type": "Resource",
+    "level": 70,
+    "image": "https://example.com/images/item_10306.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 307": {
+    "id": 10307,
+    "type": "Resource",
+    "level": 34,
+    "image": "https://example.com/images/item_10307.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 308": {
+    "id": 10308,
+    "type": "Consumable",
+    "level": 98,
+    "image": "https://example.com/images/item_10308.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 309": {
+    "id": 10309,
+    "type": "Consumable",
+    "level": 37,
+    "image": "https://example.com/images/item_10309.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 310": {
+    "id": 10310,
+    "type": "Resource",
+    "level": 34,
+    "image": "https://example.com/images/item_10310.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 311": {
+    "id": 10311,
+    "type": "Equipment",
+    "level": 119,
+    "image": "https://example.com/images/item_10311.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 312": {
+    "id": 10312,
+    "type": "Consumable",
+    "level": 18,
+    "image": "https://example.com/images/item_10312.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 313": {
+    "id": 10313,
+    "type": "Resource",
+    "level": 70,
+    "image": "https://example.com/images/item_10313.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 314": {
+    "id": 10314,
+    "type": "Equipment",
+    "level": 103,
+    "image": "https://example.com/images/item_10314.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 315": {
+    "id": 10315,
+    "type": "Consumable",
+    "level": 162,
+    "image": "https://example.com/images/item_10315.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 316": {
+    "id": 10316,
+    "type": "Resource",
+    "level": 174,
+    "image": "https://example.com/images/item_10316.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 317": {
+    "id": 10317,
+    "type": "Consumable",
+    "level": 88,
+    "image": "https://example.com/images/item_10317.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 318": {
+    "id": 10318,
+    "type": "Consumable",
+    "level": 12,
+    "image": "https://example.com/images/item_10318.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 319": {
+    "id": 10319,
+    "type": "Resource",
+    "level": 53,
+    "image": "https://example.com/images/item_10319.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 320": {
+    "id": 10320,
+    "type": "Consumable",
+    "level": 176,
+    "image": "https://example.com/images/item_10320.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 321": {
+    "id": 10321,
+    "type": "Consumable",
+    "level": 40,
+    "image": "https://example.com/images/item_10321.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 322": {
+    "id": 10322,
+    "type": "Equipment",
+    "level": 58,
+    "image": "https://example.com/images/item_10322.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 323": {
+    "id": 10323,
+    "type": "Resource",
+    "level": 120,
+    "image": "https://example.com/images/item_10323.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 324": {
+    "id": 10324,
+    "type": "Equipment",
+    "level": 61,
+    "image": "https://example.com/images/item_10324.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 325": {
+    "id": 10325,
+    "type": "Equipment",
+    "level": 170,
+    "image": "https://example.com/images/item_10325.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 326": {
+    "id": 10326,
+    "type": "Resource",
+    "level": 160,
+    "image": "https://example.com/images/item_10326.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 327": {
+    "id": 10327,
+    "type": "Resource",
+    "level": 134,
+    "image": "https://example.com/images/item_10327.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 328": {
+    "id": 10328,
+    "type": "Resource",
+    "level": 44,
+    "image": "https://example.com/images/item_10328.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 329": {
+    "id": 10329,
+    "type": "Resource",
+    "level": 85,
+    "image": "https://example.com/images/item_10329.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 330": {
+    "id": 10330,
+    "type": "Consumable",
+    "level": 58,
+    "image": "https://example.com/images/item_10330.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 331": {
+    "id": 10331,
+    "type": "Resource",
+    "level": 59,
+    "image": "https://example.com/images/item_10331.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 332": {
+    "id": 10332,
+    "type": "Equipment",
+    "level": 188,
+    "image": "https://example.com/images/item_10332.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 333": {
+    "id": 10333,
+    "type": "Resource",
+    "level": 95,
+    "image": "https://example.com/images/item_10333.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 334": {
+    "id": 10334,
+    "type": "Equipment",
+    "level": 79,
+    "image": "https://example.com/images/item_10334.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 335": {
+    "id": 10335,
+    "type": "Consumable",
+    "level": 4,
+    "image": "https://example.com/images/item_10335.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 336": {
+    "id": 10336,
+    "type": "Consumable",
+    "level": 118,
+    "image": "https://example.com/images/item_10336.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 337": {
+    "id": 10337,
+    "type": "Consumable",
+    "level": 48,
+    "image": "https://example.com/images/item_10337.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 338": {
+    "id": 10338,
+    "type": "Equipment",
+    "level": 34,
+    "image": "https://example.com/images/item_10338.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 339": {
+    "id": 10339,
+    "type": "Resource",
+    "level": 106,
+    "image": "https://example.com/images/item_10339.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 340": {
+    "id": 10340,
+    "type": "Equipment",
+    "level": 128,
+    "image": "https://example.com/images/item_10340.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 341": {
+    "id": 10341,
+    "type": "Consumable",
+    "level": 109,
+    "image": "https://example.com/images/item_10341.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 342": {
+    "id": 10342,
+    "type": "Resource",
+    "level": 175,
+    "image": "https://example.com/images/item_10342.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 343": {
+    "id": 10343,
+    "type": "Consumable",
+    "level": 105,
+    "image": "https://example.com/images/item_10343.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 344": {
+    "id": 10344,
+    "type": "Equipment",
+    "level": 58,
+    "image": "https://example.com/images/item_10344.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 345": {
+    "id": 10345,
+    "type": "Consumable",
+    "level": 69,
+    "image": "https://example.com/images/item_10345.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 346": {
+    "id": 10346,
+    "type": "Consumable",
+    "level": 58,
+    "image": "https://example.com/images/item_10346.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 347": {
+    "id": 10347,
+    "type": "Consumable",
+    "level": 76,
+    "image": "https://example.com/images/item_10347.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 348": {
+    "id": 10348,
+    "type": "Consumable",
+    "level": 89,
+    "image": "https://example.com/images/item_10348.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 349": {
+    "id": 10349,
+    "type": "Equipment",
+    "level": 54,
+    "image": "https://example.com/images/item_10349.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 350": {
+    "id": 10350,
+    "type": "Equipment",
+    "level": 12,
+    "image": "https://example.com/images/item_10350.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 351": {
+    "id": 10351,
+    "type": "Equipment",
+    "level": 117,
+    "image": "https://example.com/images/item_10351.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 352": {
+    "id": 10352,
+    "type": "Equipment",
+    "level": 133,
+    "image": "https://example.com/images/item_10352.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 353": {
+    "id": 10353,
+    "type": "Resource",
+    "level": 15,
+    "image": "https://example.com/images/item_10353.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 354": {
+    "id": 10354,
+    "type": "Equipment",
+    "level": 40,
+    "image": "https://example.com/images/item_10354.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 355": {
+    "id": 10355,
+    "type": "Resource",
+    "level": 99,
+    "image": "https://example.com/images/item_10355.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 356": {
+    "id": 10356,
+    "type": "Resource",
+    "level": 41,
+    "image": "https://example.com/images/item_10356.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 357": {
+    "id": 10357,
+    "type": "Equipment",
+    "level": 151,
+    "image": "https://example.com/images/item_10357.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 358": {
+    "id": 10358,
+    "type": "Equipment",
+    "level": 119,
+    "image": "https://example.com/images/item_10358.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 359": {
+    "id": 10359,
+    "type": "Consumable",
+    "level": 51,
+    "image": "https://example.com/images/item_10359.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 360": {
+    "id": 10360,
+    "type": "Resource",
+    "level": 37,
+    "image": "https://example.com/images/item_10360.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 361": {
+    "id": 10361,
+    "type": "Consumable",
+    "level": 30,
+    "image": "https://example.com/images/item_10361.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 362": {
+    "id": 10362,
+    "type": "Resource",
+    "level": 197,
+    "image": "https://example.com/images/item_10362.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 363": {
+    "id": 10363,
+    "type": "Consumable",
+    "level": 59,
+    "image": "https://example.com/images/item_10363.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 364": {
+    "id": 10364,
+    "type": "Equipment",
+    "level": 178,
+    "image": "https://example.com/images/item_10364.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 365": {
+    "id": 10365,
+    "type": "Consumable",
+    "level": 192,
+    "image": "https://example.com/images/item_10365.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 366": {
+    "id": 10366,
+    "type": "Consumable",
+    "level": 81,
+    "image": "https://example.com/images/item_10366.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 367": {
+    "id": 10367,
+    "type": "Consumable",
+    "level": 123,
+    "image": "https://example.com/images/item_10367.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 368": {
+    "id": 10368,
+    "type": "Consumable",
+    "level": 48,
+    "image": "https://example.com/images/item_10368.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 369": {
+    "id": 10369,
+    "type": "Resource",
+    "level": 196,
+    "image": "https://example.com/images/item_10369.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 370": {
+    "id": 10370,
+    "type": "Equipment",
+    "level": 7,
+    "image": "https://example.com/images/item_10370.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 371": {
+    "id": 10371,
+    "type": "Resource",
+    "level": 184,
+    "image": "https://example.com/images/item_10371.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 372": {
+    "id": 10372,
+    "type": "Equipment",
+    "level": 3,
+    "image": "https://example.com/images/item_10372.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 373": {
+    "id": 10373,
+    "type": "Consumable",
+    "level": 25,
+    "image": "https://example.com/images/item_10373.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 374": {
+    "id": 10374,
+    "type": "Consumable",
+    "level": 101,
+    "image": "https://example.com/images/item_10374.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 375": {
+    "id": 10375,
+    "type": "Resource",
+    "level": 128,
+    "image": "https://example.com/images/item_10375.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 376": {
+    "id": 10376,
+    "type": "Resource",
+    "level": 137,
+    "image": "https://example.com/images/item_10376.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 377": {
+    "id": 10377,
+    "type": "Consumable",
+    "level": 8,
+    "image": "https://example.com/images/item_10377.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 378": {
+    "id": 10378,
+    "type": "Resource",
+    "level": 61,
+    "image": "https://example.com/images/item_10378.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 379": {
+    "id": 10379,
+    "type": "Consumable",
+    "level": 62,
+    "image": "https://example.com/images/item_10379.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 380": {
+    "id": 10380,
+    "type": "Resource",
+    "level": 121,
+    "image": "https://example.com/images/item_10380.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 381": {
+    "id": 10381,
+    "type": "Consumable",
+    "level": 179,
+    "image": "https://example.com/images/item_10381.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 382": {
+    "id": 10382,
+    "type": "Consumable",
+    "level": 4,
+    "image": "https://example.com/images/item_10382.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 383": {
+    "id": 10383,
+    "type": "Consumable",
+    "level": 11,
+    "image": "https://example.com/images/item_10383.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 384": {
+    "id": 10384,
+    "type": "Consumable",
+    "level": 141,
+    "image": "https://example.com/images/item_10384.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 385": {
+    "id": 10385,
+    "type": "Consumable",
+    "level": 200,
+    "image": "https://example.com/images/item_10385.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 386": {
+    "id": 10386,
+    "type": "Consumable",
+    "level": 141,
+    "image": "https://example.com/images/item_10386.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 387": {
+    "id": 10387,
+    "type": "Resource",
+    "level": 175,
+    "image": "https://example.com/images/item_10387.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 388": {
+    "id": 10388,
+    "type": "Consumable",
+    "level": 43,
+    "image": "https://example.com/images/item_10388.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 389": {
+    "id": 10389,
+    "type": "Equipment",
+    "level": 111,
+    "image": "https://example.com/images/item_10389.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 390": {
+    "id": 10390,
+    "type": "Resource",
+    "level": 73,
+    "image": "https://example.com/images/item_10390.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 391": {
+    "id": 10391,
+    "type": "Consumable",
+    "level": 61,
+    "image": "https://example.com/images/item_10391.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 392": {
+    "id": 10392,
+    "type": "Equipment",
+    "level": 169,
+    "image": "https://example.com/images/item_10392.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 393": {
+    "id": 10393,
+    "type": "Consumable",
+    "level": 137,
+    "image": "https://example.com/images/item_10393.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 394": {
+    "id": 10394,
+    "type": "Consumable",
+    "level": 121,
+    "image": "https://example.com/images/item_10394.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 395": {
+    "id": 10395,
+    "type": "Consumable",
+    "level": 81,
+    "image": "https://example.com/images/item_10395.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 396": {
+    "id": 10396,
+    "type": "Equipment",
+    "level": 66,
+    "image": "https://example.com/images/item_10396.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 397": {
+    "id": 10397,
+    "type": "Consumable",
+    "level": 189,
+    "image": "https://example.com/images/item_10397.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 398": {
+    "id": 10398,
+    "type": "Resource",
+    "level": 115,
+    "image": "https://example.com/images/item_10398.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 399": {
+    "id": 10399,
+    "type": "Resource",
+    "level": 131,
+    "image": "https://example.com/images/item_10399.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 400": {
+    "id": 10400,
+    "type": "Consumable",
+    "level": 106,
+    "image": "https://example.com/images/item_10400.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 401": {
+    "id": 10401,
+    "type": "Equipment",
+    "level": 33,
+    "image": "https://example.com/images/item_10401.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 402": {
+    "id": 10402,
+    "type": "Resource",
+    "level": 74,
+    "image": "https://example.com/images/item_10402.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 403": {
+    "id": 10403,
+    "type": "Equipment",
+    "level": 192,
+    "image": "https://example.com/images/item_10403.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 404": {
+    "id": 10404,
+    "type": "Resource",
+    "level": 155,
+    "image": "https://example.com/images/item_10404.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 405": {
+    "id": 10405,
+    "type": "Consumable",
+    "level": 137,
+    "image": "https://example.com/images/item_10405.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 406": {
+    "id": 10406,
+    "type": "Equipment",
+    "level": 146,
+    "image": "https://example.com/images/item_10406.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 407": {
+    "id": 10407,
+    "type": "Equipment",
+    "level": 135,
+    "image": "https://example.com/images/item_10407.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 408": {
+    "id": 10408,
+    "type": "Equipment",
+    "level": 79,
+    "image": "https://example.com/images/item_10408.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 409": {
+    "id": 10409,
+    "type": "Resource",
+    "level": 11,
+    "image": "https://example.com/images/item_10409.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 410": {
+    "id": 10410,
+    "type": "Resource",
+    "level": 35,
+    "image": "https://example.com/images/item_10410.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 411": {
+    "id": 10411,
+    "type": "Resource",
+    "level": 179,
+    "image": "https://example.com/images/item_10411.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 412": {
+    "id": 10412,
+    "type": "Equipment",
+    "level": 78,
+    "image": "https://example.com/images/item_10412.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 413": {
+    "id": 10413,
+    "type": "Equipment",
+    "level": 150,
+    "image": "https://example.com/images/item_10413.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 414": {
+    "id": 10414,
+    "type": "Equipment",
+    "level": 99,
+    "image": "https://example.com/images/item_10414.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 415": {
+    "id": 10415,
+    "type": "Consumable",
+    "level": 135,
+    "image": "https://example.com/images/item_10415.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 416": {
+    "id": 10416,
+    "type": "Equipment",
+    "level": 42,
+    "image": "https://example.com/images/item_10416.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 417": {
+    "id": 10417,
+    "type": "Resource",
+    "level": 63,
+    "image": "https://example.com/images/item_10417.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 418": {
+    "id": 10418,
+    "type": "Resource",
+    "level": 159,
+    "image": "https://example.com/images/item_10418.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 419": {
+    "id": 10419,
+    "type": "Consumable",
+    "level": 74,
+    "image": "https://example.com/images/item_10419.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 420": {
+    "id": 10420,
+    "type": "Consumable",
+    "level": 5,
+    "image": "https://example.com/images/item_10420.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 421": {
+    "id": 10421,
+    "type": "Equipment",
+    "level": 113,
+    "image": "https://example.com/images/item_10421.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 422": {
+    "id": 10422,
+    "type": "Resource",
+    "level": 126,
+    "image": "https://example.com/images/item_10422.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 423": {
+    "id": 10423,
+    "type": "Resource",
+    "level": 85,
+    "image": "https://example.com/images/item_10423.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 424": {
+    "id": 10424,
+    "type": "Equipment",
+    "level": 130,
+    "image": "https://example.com/images/item_10424.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 425": {
+    "id": 10425,
+    "type": "Resource",
+    "level": 83,
+    "image": "https://example.com/images/item_10425.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 426": {
+    "id": 10426,
+    "type": "Equipment",
+    "level": 143,
+    "image": "https://example.com/images/item_10426.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 427": {
+    "id": 10427,
+    "type": "Consumable",
+    "level": 199,
+    "image": "https://example.com/images/item_10427.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 428": {
+    "id": 10428,
+    "type": "Equipment",
+    "level": 73,
+    "image": "https://example.com/images/item_10428.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 429": {
+    "id": 10429,
+    "type": "Resource",
+    "level": 166,
+    "image": "https://example.com/images/item_10429.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 430": {
+    "id": 10430,
+    "type": "Resource",
+    "level": 122,
+    "image": "https://example.com/images/item_10430.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 431": {
+    "id": 10431,
+    "type": "Resource",
+    "level": 47,
+    "image": "https://example.com/images/item_10431.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 432": {
+    "id": 10432,
+    "type": "Consumable",
+    "level": 93,
+    "image": "https://example.com/images/item_10432.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 433": {
+    "id": 10433,
+    "type": "Consumable",
+    "level": 129,
+    "image": "https://example.com/images/item_10433.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 434": {
+    "id": 10434,
+    "type": "Resource",
+    "level": 34,
+    "image": "https://example.com/images/item_10434.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 435": {
+    "id": 10435,
+    "type": "Equipment",
+    "level": 70,
+    "image": "https://example.com/images/item_10435.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 436": {
+    "id": 10436,
+    "type": "Consumable",
+    "level": 12,
+    "image": "https://example.com/images/item_10436.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 437": {
+    "id": 10437,
+    "type": "Consumable",
+    "level": 154,
+    "image": "https://example.com/images/item_10437.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 438": {
+    "id": 10438,
+    "type": "Consumable",
+    "level": 159,
+    "image": "https://example.com/images/item_10438.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 439": {
+    "id": 10439,
+    "type": "Equipment",
+    "level": 33,
+    "image": "https://example.com/images/item_10439.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 440": {
+    "id": 10440,
+    "type": "Equipment",
+    "level": 46,
+    "image": "https://example.com/images/item_10440.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 441": {
+    "id": 10441,
+    "type": "Resource",
+    "level": 108,
+    "image": "https://example.com/images/item_10441.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 442": {
+    "id": 10442,
+    "type": "Resource",
+    "level": 56,
+    "image": "https://example.com/images/item_10442.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 443": {
+    "id": 10443,
+    "type": "Resource",
+    "level": 200,
+    "image": "https://example.com/images/item_10443.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 444": {
+    "id": 10444,
+    "type": "Equipment",
+    "level": 8,
+    "image": "https://example.com/images/item_10444.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 445": {
+    "id": 10445,
+    "type": "Resource",
+    "level": 79,
+    "image": "https://example.com/images/item_10445.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 446": {
+    "id": 10446,
+    "type": "Equipment",
+    "level": 187,
+    "image": "https://example.com/images/item_10446.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 447": {
+    "id": 10447,
+    "type": "Resource",
+    "level": 197,
+    "image": "https://example.com/images/item_10447.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 448": {
+    "id": 10448,
+    "type": "Consumable",
+    "level": 57,
+    "image": "https://example.com/images/item_10448.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 449": {
+    "id": 10449,
+    "type": "Consumable",
+    "level": 75,
+    "image": "https://example.com/images/item_10449.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 450": {
+    "id": 10450,
+    "type": "Consumable",
+    "level": 136,
+    "image": "https://example.com/images/item_10450.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 451": {
+    "id": 10451,
+    "type": "Resource",
+    "level": 66,
+    "image": "https://example.com/images/item_10451.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 452": {
+    "id": 10452,
+    "type": "Consumable",
+    "level": 31,
+    "image": "https://example.com/images/item_10452.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 453": {
+    "id": 10453,
+    "type": "Consumable",
+    "level": 142,
+    "image": "https://example.com/images/item_10453.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 454": {
+    "id": 10454,
+    "type": "Consumable",
+    "level": 52,
+    "image": "https://example.com/images/item_10454.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 455": {
+    "id": 10455,
+    "type": "Consumable",
+    "level": 121,
+    "image": "https://example.com/images/item_10455.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 456": {
+    "id": 10456,
+    "type": "Consumable",
+    "level": 113,
+    "image": "https://example.com/images/item_10456.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 457": {
+    "id": 10457,
+    "type": "Consumable",
+    "level": 76,
+    "image": "https://example.com/images/item_10457.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 458": {
+    "id": 10458,
+    "type": "Resource",
+    "level": 63,
+    "image": "https://example.com/images/item_10458.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 459": {
+    "id": 10459,
+    "type": "Consumable",
+    "level": 89,
+    "image": "https://example.com/images/item_10459.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 460": {
+    "id": 10460,
+    "type": "Consumable",
+    "level": 7,
+    "image": "https://example.com/images/item_10460.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 461": {
+    "id": 10461,
+    "type": "Resource",
+    "level": 37,
+    "image": "https://example.com/images/item_10461.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 462": {
+    "id": 10462,
+    "type": "Equipment",
+    "level": 158,
+    "image": "https://example.com/images/item_10462.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 463": {
+    "id": 10463,
+    "type": "Equipment",
+    "level": 161,
+    "image": "https://example.com/images/item_10463.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 464": {
+    "id": 10464,
+    "type": "Resource",
+    "level": 188,
+    "image": "https://example.com/images/item_10464.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 465": {
+    "id": 10465,
+    "type": "Resource",
+    "level": 58,
+    "image": "https://example.com/images/item_10465.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 466": {
+    "id": 10466,
+    "type": "Consumable",
+    "level": 88,
+    "image": "https://example.com/images/item_10466.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 467": {
+    "id": 10467,
+    "type": "Resource",
+    "level": 24,
+    "image": "https://example.com/images/item_10467.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 468": {
+    "id": 10468,
+    "type": "Consumable",
+    "level": 39,
+    "image": "https://example.com/images/item_10468.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 469": {
+    "id": 10469,
+    "type": "Equipment",
+    "level": 44,
+    "image": "https://example.com/images/item_10469.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 470": {
+    "id": 10470,
+    "type": "Consumable",
+    "level": 26,
+    "image": "https://example.com/images/item_10470.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 471": {
+    "id": 10471,
+    "type": "Equipment",
+    "level": 131,
+    "image": "https://example.com/images/item_10471.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 472": {
+    "id": 10472,
+    "type": "Resource",
+    "level": 112,
+    "image": "https://example.com/images/item_10472.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 473": {
+    "id": 10473,
+    "type": "Resource",
+    "level": 188,
+    "image": "https://example.com/images/item_10473.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 474": {
+    "id": 10474,
+    "type": "Resource",
+    "level": 163,
+    "image": "https://example.com/images/item_10474.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 475": {
+    "id": 10475,
+    "type": "Consumable",
+    "level": 174,
+    "image": "https://example.com/images/item_10475.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 476": {
+    "id": 10476,
+    "type": "Consumable",
+    "level": 18,
+    "image": "https://example.com/images/item_10476.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 477": {
+    "id": 10477,
+    "type": "Equipment",
+    "level": 152,
+    "image": "https://example.com/images/item_10477.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 478": {
+    "id": 10478,
+    "type": "Equipment",
+    "level": 87,
+    "image": "https://example.com/images/item_10478.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 479": {
+    "id": 10479,
+    "type": "Resource",
+    "level": 174,
+    "image": "https://example.com/images/item_10479.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 480": {
+    "id": 10480,
+    "type": "Resource",
+    "level": 34,
+    "image": "https://example.com/images/item_10480.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 481": {
+    "id": 10481,
+    "type": "Resource",
+    "level": 89,
+    "image": "https://example.com/images/item_10481.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 482": {
+    "id": 10482,
+    "type": "Consumable",
+    "level": 143,
+    "image": "https://example.com/images/item_10482.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 483": {
+    "id": 10483,
+    "type": "Consumable",
+    "level": 55,
+    "image": "https://example.com/images/item_10483.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 484": {
+    "id": 10484,
+    "type": "Equipment",
+    "level": 69,
+    "image": "https://example.com/images/item_10484.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 485": {
+    "id": 10485,
+    "type": "Resource",
+    "level": 103,
+    "image": "https://example.com/images/item_10485.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 486": {
+    "id": 10486,
+    "type": "Consumable",
+    "level": 59,
+    "image": "https://example.com/images/item_10486.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 487": {
+    "id": 10487,
+    "type": "Resource",
+    "level": 12,
+    "image": "https://example.com/images/item_10487.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 488": {
+    "id": 10488,
+    "type": "Consumable",
+    "level": 46,
+    "image": "https://example.com/images/item_10488.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 489": {
+    "id": 10489,
+    "type": "Equipment",
+    "level": 51,
+    "image": "https://example.com/images/item_10489.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 490": {
+    "id": 10490,
+    "type": "Resource",
+    "level": 181,
+    "image": "https://example.com/images/item_10490.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 491": {
+    "id": 10491,
+    "type": "Consumable",
+    "level": 102,
+    "image": "https://example.com/images/item_10491.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 492": {
+    "id": 10492,
+    "type": "Resource",
+    "level": 80,
+    "image": "https://example.com/images/item_10492.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 493": {
+    "id": 10493,
+    "type": "Equipment",
+    "level": 7,
+    "image": "https://example.com/images/item_10493.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 494": {
+    "id": 10494,
+    "type": "Equipment",
+    "level": 151,
+    "image": "https://example.com/images/item_10494.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 495": {
+    "id": 10495,
+    "type": "Consumable",
+    "level": 196,
+    "image": "https://example.com/images/item_10495.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 496": {
+    "id": 10496,
+    "type": "Resource",
+    "level": 86,
+    "image": "https://example.com/images/item_10496.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 497": {
+    "id": 10497,
+    "type": "Consumable",
+    "level": 40,
+    "image": "https://example.com/images/item_10497.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 498": {
+    "id": 10498,
+    "type": "Resource",
+    "level": 9,
+    "image": "https://example.com/images/item_10498.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 499": {
+    "id": 10499,
+    "type": "Equipment",
+    "level": 94,
+    "image": "https://example.com/images/item_10499.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 500": {
+    "id": 10500,
+    "type": "Equipment",
+    "level": 23,
+    "image": "https://example.com/images/item_10500.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 501": {
+    "id": 10501,
+    "type": "Resource",
+    "level": 77,
+    "image": "https://example.com/images/item_10501.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 502": {
+    "id": 10502,
+    "type": "Resource",
+    "level": 125,
+    "image": "https://example.com/images/item_10502.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 503": {
+    "id": 10503,
+    "type": "Resource",
+    "level": 12,
+    "image": "https://example.com/images/item_10503.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 504": {
+    "id": 10504,
+    "type": "Equipment",
+    "level": 100,
+    "image": "https://example.com/images/item_10504.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 505": {
+    "id": 10505,
+    "type": "Equipment",
+    "level": 16,
+    "image": "https://example.com/images/item_10505.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 506": {
+    "id": 10506,
+    "type": "Consumable",
+    "level": 45,
+    "image": "https://example.com/images/item_10506.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 507": {
+    "id": 10507,
+    "type": "Equipment",
+    "level": 94,
+    "image": "https://example.com/images/item_10507.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 508": {
+    "id": 10508,
+    "type": "Equipment",
+    "level": 57,
+    "image": "https://example.com/images/item_10508.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 509": {
+    "id": 10509,
+    "type": "Equipment",
+    "level": 124,
+    "image": "https://example.com/images/item_10509.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 510": {
+    "id": 10510,
+    "type": "Consumable",
+    "level": 28,
+    "image": "https://example.com/images/item_10510.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 511": {
+    "id": 10511,
+    "type": "Equipment",
+    "level": 32,
+    "image": "https://example.com/images/item_10511.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 512": {
+    "id": 10512,
+    "type": "Consumable",
+    "level": 12,
+    "image": "https://example.com/images/item_10512.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 513": {
+    "id": 10513,
+    "type": "Resource",
+    "level": 72,
+    "image": "https://example.com/images/item_10513.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 514": {
+    "id": 10514,
+    "type": "Resource",
+    "level": 10,
+    "image": "https://example.com/images/item_10514.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 515": {
+    "id": 10515,
+    "type": "Consumable",
+    "level": 99,
+    "image": "https://example.com/images/item_10515.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 516": {
+    "id": 10516,
+    "type": "Resource",
+    "level": 20,
+    "image": "https://example.com/images/item_10516.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 517": {
+    "id": 10517,
+    "type": "Equipment",
+    "level": 76,
+    "image": "https://example.com/images/item_10517.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 518": {
+    "id": 10518,
+    "type": "Consumable",
+    "level": 182,
+    "image": "https://example.com/images/item_10518.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 519": {
+    "id": 10519,
+    "type": "Equipment",
+    "level": 147,
+    "image": "https://example.com/images/item_10519.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 520": {
+    "id": 10520,
+    "type": "Consumable",
+    "level": 194,
+    "image": "https://example.com/images/item_10520.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 521": {
+    "id": 10521,
+    "type": "Consumable",
+    "level": 177,
+    "image": "https://example.com/images/item_10521.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 522": {
+    "id": 10522,
+    "type": "Equipment",
+    "level": 17,
+    "image": "https://example.com/images/item_10522.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 523": {
+    "id": 10523,
+    "type": "Consumable",
+    "level": 79,
+    "image": "https://example.com/images/item_10523.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 524": {
+    "id": 10524,
+    "type": "Consumable",
+    "level": 195,
+    "image": "https://example.com/images/item_10524.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 525": {
+    "id": 10525,
+    "type": "Equipment",
+    "level": 149,
+    "image": "https://example.com/images/item_10525.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 526": {
+    "id": 10526,
+    "type": "Resource",
+    "level": 40,
+    "image": "https://example.com/images/item_10526.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 527": {
+    "id": 10527,
+    "type": "Equipment",
+    "level": 11,
+    "image": "https://example.com/images/item_10527.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 528": {
+    "id": 10528,
+    "type": "Consumable",
+    "level": 118,
+    "image": "https://example.com/images/item_10528.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 529": {
+    "id": 10529,
+    "type": "Equipment",
+    "level": 127,
+    "image": "https://example.com/images/item_10529.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 530": {
+    "id": 10530,
+    "type": "Resource",
+    "level": 109,
+    "image": "https://example.com/images/item_10530.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 531": {
+    "id": 10531,
+    "type": "Resource",
+    "level": 104,
+    "image": "https://example.com/images/item_10531.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 532": {
+    "id": 10532,
+    "type": "Consumable",
+    "level": 96,
+    "image": "https://example.com/images/item_10532.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 533": {
+    "id": 10533,
+    "type": "Resource",
+    "level": 168,
+    "image": "https://example.com/images/item_10533.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 534": {
+    "id": 10534,
+    "type": "Equipment",
+    "level": 145,
+    "image": "https://example.com/images/item_10534.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 535": {
+    "id": 10535,
+    "type": "Consumable",
+    "level": 146,
+    "image": "https://example.com/images/item_10535.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 536": {
+    "id": 10536,
+    "type": "Consumable",
+    "level": 187,
+    "image": "https://example.com/images/item_10536.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 537": {
+    "id": 10537,
+    "type": "Consumable",
+    "level": 153,
+    "image": "https://example.com/images/item_10537.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 538": {
+    "id": 10538,
+    "type": "Consumable",
+    "level": 186,
+    "image": "https://example.com/images/item_10538.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 539": {
+    "id": 10539,
+    "type": "Equipment",
+    "level": 194,
+    "image": "https://example.com/images/item_10539.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 540": {
+    "id": 10540,
+    "type": "Equipment",
+    "level": 27,
+    "image": "https://example.com/images/item_10540.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 541": {
+    "id": 10541,
+    "type": "Equipment",
+    "level": 2,
+    "image": "https://example.com/images/item_10541.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 542": {
+    "id": 10542,
+    "type": "Consumable",
+    "level": 17,
+    "image": "https://example.com/images/item_10542.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 543": {
+    "id": 10543,
+    "type": "Resource",
+    "level": 91,
+    "image": "https://example.com/images/item_10543.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 544": {
+    "id": 10544,
+    "type": "Equipment",
+    "level": 19,
+    "image": "https://example.com/images/item_10544.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 545": {
+    "id": 10545,
+    "type": "Resource",
+    "level": 72,
+    "image": "https://example.com/images/item_10545.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 546": {
+    "id": 10546,
+    "type": "Consumable",
+    "level": 119,
+    "image": "https://example.com/images/item_10546.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 547": {
+    "id": 10547,
+    "type": "Resource",
+    "level": 53,
+    "image": "https://example.com/images/item_10547.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 548": {
+    "id": 10548,
+    "type": "Resource",
+    "level": 68,
+    "image": "https://example.com/images/item_10548.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 549": {
+    "id": 10549,
+    "type": "Resource",
+    "level": 26,
+    "image": "https://example.com/images/item_10549.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 550": {
+    "id": 10550,
+    "type": "Consumable",
+    "level": 182,
+    "image": "https://example.com/images/item_10550.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 551": {
+    "id": 10551,
+    "type": "Resource",
+    "level": 24,
+    "image": "https://example.com/images/item_10551.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 552": {
+    "id": 10552,
+    "type": "Equipment",
+    "level": 97,
+    "image": "https://example.com/images/item_10552.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 553": {
+    "id": 10553,
+    "type": "Equipment",
+    "level": 142,
+    "image": "https://example.com/images/item_10553.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 554": {
+    "id": 10554,
+    "type": "Resource",
+    "level": 43,
+    "image": "https://example.com/images/item_10554.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 555": {
+    "id": 10555,
+    "type": "Equipment",
+    "level": 194,
+    "image": "https://example.com/images/item_10555.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 556": {
+    "id": 10556,
+    "type": "Consumable",
+    "level": 167,
+    "image": "https://example.com/images/item_10556.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 557": {
+    "id": 10557,
+    "type": "Equipment",
+    "level": 1,
+    "image": "https://example.com/images/item_10557.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 558": {
+    "id": 10558,
+    "type": "Consumable",
+    "level": 21,
+    "image": "https://example.com/images/item_10558.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 559": {
+    "id": 10559,
+    "type": "Consumable",
+    "level": 33,
+    "image": "https://example.com/images/item_10559.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 560": {
+    "id": 10560,
+    "type": "Equipment",
+    "level": 114,
+    "image": "https://example.com/images/item_10560.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 561": {
+    "id": 10561,
+    "type": "Equipment",
+    "level": 19,
+    "image": "https://example.com/images/item_10561.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 562": {
+    "id": 10562,
+    "type": "Consumable",
+    "level": 188,
+    "image": "https://example.com/images/item_10562.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 563": {
+    "id": 10563,
+    "type": "Consumable",
+    "level": 46,
+    "image": "https://example.com/images/item_10563.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 564": {
+    "id": 10564,
+    "type": "Resource",
+    "level": 26,
+    "image": "https://example.com/images/item_10564.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 565": {
+    "id": 10565,
+    "type": "Consumable",
+    "level": 67,
+    "image": "https://example.com/images/item_10565.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 566": {
+    "id": 10566,
+    "type": "Resource",
+    "level": 172,
+    "image": "https://example.com/images/item_10566.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 567": {
+    "id": 10567,
+    "type": "Resource",
+    "level": 179,
+    "image": "https://example.com/images/item_10567.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 568": {
+    "id": 10568,
+    "type": "Resource",
+    "level": 22,
+    "image": "https://example.com/images/item_10568.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 569": {
+    "id": 10569,
+    "type": "Consumable",
+    "level": 38,
+    "image": "https://example.com/images/item_10569.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 570": {
+    "id": 10570,
+    "type": "Consumable",
+    "level": 122,
+    "image": "https://example.com/images/item_10570.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 571": {
+    "id": 10571,
+    "type": "Consumable",
+    "level": 95,
+    "image": "https://example.com/images/item_10571.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 572": {
+    "id": 10572,
+    "type": "Consumable",
+    "level": 20,
+    "image": "https://example.com/images/item_10572.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 573": {
+    "id": 10573,
+    "type": "Resource",
+    "level": 53,
+    "image": "https://example.com/images/item_10573.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 574": {
+    "id": 10574,
+    "type": "Consumable",
+    "level": 158,
+    "image": "https://example.com/images/item_10574.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 575": {
+    "id": 10575,
+    "type": "Consumable",
+    "level": 102,
+    "image": "https://example.com/images/item_10575.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 576": {
+    "id": 10576,
+    "type": "Consumable",
+    "level": 175,
+    "image": "https://example.com/images/item_10576.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 577": {
+    "id": 10577,
+    "type": "Resource",
+    "level": 181,
+    "image": "https://example.com/images/item_10577.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 578": {
+    "id": 10578,
+    "type": "Resource",
+    "level": 85,
+    "image": "https://example.com/images/item_10578.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 579": {
+    "id": 10579,
+    "type": "Consumable",
+    "level": 33,
+    "image": "https://example.com/images/item_10579.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 580": {
+    "id": 10580,
+    "type": "Consumable",
+    "level": 139,
+    "image": "https://example.com/images/item_10580.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 581": {
+    "id": 10581,
+    "type": "Consumable",
+    "level": 72,
+    "image": "https://example.com/images/item_10581.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 582": {
+    "id": 10582,
+    "type": "Equipment",
+    "level": 152,
+    "image": "https://example.com/images/item_10582.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 583": {
+    "id": 10583,
+    "type": "Resource",
+    "level": 92,
+    "image": "https://example.com/images/item_10583.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 584": {
+    "id": 10584,
+    "type": "Resource",
+    "level": 58,
+    "image": "https://example.com/images/item_10584.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 585": {
+    "id": 10585,
+    "type": "Resource",
+    "level": 33,
+    "image": "https://example.com/images/item_10585.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 586": {
+    "id": 10586,
+    "type": "Equipment",
+    "level": 98,
+    "image": "https://example.com/images/item_10586.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 587": {
+    "id": 10587,
+    "type": "Resource",
+    "level": 169,
+    "image": "https://example.com/images/item_10587.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 588": {
+    "id": 10588,
+    "type": "Resource",
+    "level": 164,
+    "image": "https://example.com/images/item_10588.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 589": {
+    "id": 10589,
+    "type": "Equipment",
+    "level": 127,
+    "image": "https://example.com/images/item_10589.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 590": {
+    "id": 10590,
+    "type": "Consumable",
+    "level": 196,
+    "image": "https://example.com/images/item_10590.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 591": {
+    "id": 10591,
+    "type": "Equipment",
+    "level": 120,
+    "image": "https://example.com/images/item_10591.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 592": {
+    "id": 10592,
+    "type": "Equipment",
+    "level": 188,
+    "image": "https://example.com/images/item_10592.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 593": {
+    "id": 10593,
+    "type": "Equipment",
+    "level": 26,
+    "image": "https://example.com/images/item_10593.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 594": {
+    "id": 10594,
+    "type": "Equipment",
+    "level": 110,
+    "image": "https://example.com/images/item_10594.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 595": {
+    "id": 10595,
+    "type": "Resource",
+    "level": 111,
+    "image": "https://example.com/images/item_10595.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 596": {
+    "id": 10596,
+    "type": "Equipment",
+    "level": 155,
+    "image": "https://example.com/images/item_10596.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 597": {
+    "id": 10597,
+    "type": "Resource",
+    "level": 199,
+    "image": "https://example.com/images/item_10597.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 598": {
+    "id": 10598,
+    "type": "Resource",
+    "level": 137,
+    "image": "https://example.com/images/item_10598.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 599": {
+    "id": 10599,
+    "type": "Resource",
+    "level": 60,
+    "image": "https://example.com/images/item_10599.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 600": {
+    "id": 10600,
+    "type": "Consumable",
+    "level": 178,
+    "image": "https://example.com/images/item_10600.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 601": {
+    "id": 10601,
+    "type": "Equipment",
+    "level": 13,
+    "image": "https://example.com/images/item_10601.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 602": {
+    "id": 10602,
+    "type": "Equipment",
+    "level": 80,
+    "image": "https://example.com/images/item_10602.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 603": {
+    "id": 10603,
+    "type": "Resource",
+    "level": 138,
+    "image": "https://example.com/images/item_10603.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 604": {
+    "id": 10604,
+    "type": "Equipment",
+    "level": 145,
+    "image": "https://example.com/images/item_10604.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 605": {
+    "id": 10605,
+    "type": "Equipment",
+    "level": 89,
+    "image": "https://example.com/images/item_10605.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 606": {
+    "id": 10606,
+    "type": "Resource",
+    "level": 55,
+    "image": "https://example.com/images/item_10606.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 607": {
+    "id": 10607,
+    "type": "Resource",
+    "level": 164,
+    "image": "https://example.com/images/item_10607.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 608": {
+    "id": 10608,
+    "type": "Consumable",
+    "level": 103,
+    "image": "https://example.com/images/item_10608.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 609": {
+    "id": 10609,
+    "type": "Consumable",
+    "level": 189,
+    "image": "https://example.com/images/item_10609.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 610": {
+    "id": 10610,
+    "type": "Consumable",
+    "level": 38,
+    "image": "https://example.com/images/item_10610.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 611": {
+    "id": 10611,
+    "type": "Resource",
+    "level": 103,
+    "image": "https://example.com/images/item_10611.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 612": {
+    "id": 10612,
+    "type": "Equipment",
+    "level": 193,
+    "image": "https://example.com/images/item_10612.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 613": {
+    "id": 10613,
+    "type": "Equipment",
+    "level": 119,
+    "image": "https://example.com/images/item_10613.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 614": {
+    "id": 10614,
+    "type": "Consumable",
+    "level": 92,
+    "image": "https://example.com/images/item_10614.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 615": {
+    "id": 10615,
+    "type": "Resource",
+    "level": 24,
+    "image": "https://example.com/images/item_10615.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 616": {
+    "id": 10616,
+    "type": "Resource",
+    "level": 19,
+    "image": "https://example.com/images/item_10616.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 617": {
+    "id": 10617,
+    "type": "Consumable",
+    "level": 106,
+    "image": "https://example.com/images/item_10617.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 618": {
+    "id": 10618,
+    "type": "Equipment",
+    "level": 129,
+    "image": "https://example.com/images/item_10618.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 619": {
+    "id": 10619,
+    "type": "Resource",
+    "level": 144,
+    "image": "https://example.com/images/item_10619.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 620": {
+    "id": 10620,
+    "type": "Equipment",
+    "level": 150,
+    "image": "https://example.com/images/item_10620.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 621": {
+    "id": 10621,
+    "type": "Resource",
+    "level": 76,
+    "image": "https://example.com/images/item_10621.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 622": {
+    "id": 10622,
+    "type": "Resource",
+    "level": 11,
+    "image": "https://example.com/images/item_10622.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 623": {
+    "id": 10623,
+    "type": "Resource",
+    "level": 50,
+    "image": "https://example.com/images/item_10623.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 624": {
+    "id": 10624,
+    "type": "Consumable",
+    "level": 99,
+    "image": "https://example.com/images/item_10624.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 625": {
+    "id": 10625,
+    "type": "Equipment",
+    "level": 40,
+    "image": "https://example.com/images/item_10625.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 626": {
+    "id": 10626,
+    "type": "Resource",
+    "level": 139,
+    "image": "https://example.com/images/item_10626.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 627": {
+    "id": 10627,
+    "type": "Equipment",
+    "level": 5,
+    "image": "https://example.com/images/item_10627.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 628": {
+    "id": 10628,
+    "type": "Resource",
+    "level": 99,
+    "image": "https://example.com/images/item_10628.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 629": {
+    "id": 10629,
+    "type": "Consumable",
+    "level": 146,
+    "image": "https://example.com/images/item_10629.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 630": {
+    "id": 10630,
+    "type": "Resource",
+    "level": 20,
+    "image": "https://example.com/images/item_10630.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 631": {
+    "id": 10631,
+    "type": "Equipment",
+    "level": 127,
+    "image": "https://example.com/images/item_10631.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 632": {
+    "id": 10632,
+    "type": "Consumable",
+    "level": 134,
+    "image": "https://example.com/images/item_10632.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 633": {
+    "id": 10633,
+    "type": "Equipment",
+    "level": 130,
+    "image": "https://example.com/images/item_10633.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 634": {
+    "id": 10634,
+    "type": "Equipment",
+    "level": 124,
+    "image": "https://example.com/images/item_10634.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 635": {
+    "id": 10635,
+    "type": "Resource",
+    "level": 118,
+    "image": "https://example.com/images/item_10635.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 636": {
+    "id": 10636,
+    "type": "Equipment",
+    "level": 132,
+    "image": "https://example.com/images/item_10636.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 637": {
+    "id": 10637,
+    "type": "Resource",
+    "level": 4,
+    "image": "https://example.com/images/item_10637.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 638": {
+    "id": 10638,
+    "type": "Resource",
+    "level": 72,
+    "image": "https://example.com/images/item_10638.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 639": {
+    "id": 10639,
+    "type": "Resource",
+    "level": 103,
+    "image": "https://example.com/images/item_10639.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 640": {
+    "id": 10640,
+    "type": "Equipment",
+    "level": 183,
+    "image": "https://example.com/images/item_10640.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 641": {
+    "id": 10641,
+    "type": "Consumable",
+    "level": 159,
+    "image": "https://example.com/images/item_10641.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 642": {
+    "id": 10642,
+    "type": "Equipment",
+    "level": 196,
+    "image": "https://example.com/images/item_10642.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 643": {
+    "id": 10643,
+    "type": "Consumable",
+    "level": 185,
+    "image": "https://example.com/images/item_10643.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 644": {
+    "id": 10644,
+    "type": "Equipment",
+    "level": 94,
+    "image": "https://example.com/images/item_10644.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 645": {
+    "id": 10645,
+    "type": "Consumable",
+    "level": 200,
+    "image": "https://example.com/images/item_10645.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 646": {
+    "id": 10646,
+    "type": "Equipment",
+    "level": 151,
+    "image": "https://example.com/images/item_10646.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 647": {
+    "id": 10647,
+    "type": "Equipment",
+    "level": 62,
+    "image": "https://example.com/images/item_10647.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 648": {
+    "id": 10648,
+    "type": "Equipment",
+    "level": 23,
+    "image": "https://example.com/images/item_10648.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 649": {
+    "id": 10649,
+    "type": "Equipment",
+    "level": 114,
+    "image": "https://example.com/images/item_10649.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 650": {
+    "id": 10650,
+    "type": "Consumable",
+    "level": 98,
+    "image": "https://example.com/images/item_10650.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 651": {
+    "id": 10651,
+    "type": "Consumable",
+    "level": 80,
+    "image": "https://example.com/images/item_10651.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 652": {
+    "id": 10652,
+    "type": "Resource",
+    "level": 72,
+    "image": "https://example.com/images/item_10652.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 653": {
+    "id": 10653,
+    "type": "Consumable",
+    "level": 153,
+    "image": "https://example.com/images/item_10653.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 654": {
+    "id": 10654,
+    "type": "Resource",
+    "level": 63,
+    "image": "https://example.com/images/item_10654.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 655": {
+    "id": 10655,
+    "type": "Consumable",
+    "level": 174,
+    "image": "https://example.com/images/item_10655.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 656": {
+    "id": 10656,
+    "type": "Equipment",
+    "level": 177,
+    "image": "https://example.com/images/item_10656.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 657": {
+    "id": 10657,
+    "type": "Equipment",
+    "level": 175,
+    "image": "https://example.com/images/item_10657.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 658": {
+    "id": 10658,
+    "type": "Consumable",
+    "level": 184,
+    "image": "https://example.com/images/item_10658.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 659": {
+    "id": 10659,
+    "type": "Consumable",
+    "level": 196,
+    "image": "https://example.com/images/item_10659.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 660": {
+    "id": 10660,
+    "type": "Equipment",
+    "level": 26,
+    "image": "https://example.com/images/item_10660.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 661": {
+    "id": 10661,
+    "type": "Resource",
+    "level": 121,
+    "image": "https://example.com/images/item_10661.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 662": {
+    "id": 10662,
+    "type": "Equipment",
+    "level": 30,
+    "image": "https://example.com/images/item_10662.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 663": {
+    "id": 10663,
+    "type": "Resource",
+    "level": 44,
+    "image": "https://example.com/images/item_10663.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 664": {
+    "id": 10664,
+    "type": "Consumable",
+    "level": 90,
+    "image": "https://example.com/images/item_10664.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 665": {
+    "id": 10665,
+    "type": "Equipment",
+    "level": 32,
+    "image": "https://example.com/images/item_10665.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 666": {
+    "id": 10666,
+    "type": "Equipment",
+    "level": 172,
+    "image": "https://example.com/images/item_10666.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 667": {
+    "id": 10667,
+    "type": "Consumable",
+    "level": 160,
+    "image": "https://example.com/images/item_10667.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 668": {
+    "id": 10668,
+    "type": "Consumable",
+    "level": 187,
+    "image": "https://example.com/images/item_10668.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 669": {
+    "id": 10669,
+    "type": "Equipment",
+    "level": 59,
+    "image": "https://example.com/images/item_10669.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 670": {
+    "id": 10670,
+    "type": "Resource",
+    "level": 143,
+    "image": "https://example.com/images/item_10670.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 671": {
+    "id": 10671,
+    "type": "Resource",
+    "level": 38,
+    "image": "https://example.com/images/item_10671.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 672": {
+    "id": 10672,
+    "type": "Equipment",
+    "level": 114,
+    "image": "https://example.com/images/item_10672.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 673": {
+    "id": 10673,
+    "type": "Equipment",
+    "level": 37,
+    "image": "https://example.com/images/item_10673.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 674": {
+    "id": 10674,
+    "type": "Consumable",
+    "level": 140,
+    "image": "https://example.com/images/item_10674.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 675": {
+    "id": 10675,
+    "type": "Resource",
+    "level": 19,
+    "image": "https://example.com/images/item_10675.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 676": {
+    "id": 10676,
+    "type": "Consumable",
+    "level": 73,
+    "image": "https://example.com/images/item_10676.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 677": {
+    "id": 10677,
+    "type": "Resource",
+    "level": 111,
+    "image": "https://example.com/images/item_10677.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 678": {
+    "id": 10678,
+    "type": "Equipment",
+    "level": 117,
+    "image": "https://example.com/images/item_10678.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 679": {
+    "id": 10679,
+    "type": "Resource",
+    "level": 164,
+    "image": "https://example.com/images/item_10679.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 680": {
+    "id": 10680,
+    "type": "Consumable",
+    "level": 182,
+    "image": "https://example.com/images/item_10680.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 681": {
+    "id": 10681,
+    "type": "Consumable",
+    "level": 10,
+    "image": "https://example.com/images/item_10681.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 682": {
+    "id": 10682,
+    "type": "Equipment",
+    "level": 169,
+    "image": "https://example.com/images/item_10682.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 683": {
+    "id": 10683,
+    "type": "Consumable",
+    "level": 142,
+    "image": "https://example.com/images/item_10683.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 684": {
+    "id": 10684,
+    "type": "Resource",
+    "level": 29,
+    "image": "https://example.com/images/item_10684.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 685": {
+    "id": 10685,
+    "type": "Resource",
+    "level": 54,
+    "image": "https://example.com/images/item_10685.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 686": {
+    "id": 10686,
+    "type": "Consumable",
+    "level": 12,
+    "image": "https://example.com/images/item_10686.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 687": {
+    "id": 10687,
+    "type": "Equipment",
+    "level": 44,
+    "image": "https://example.com/images/item_10687.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 688": {
+    "id": 10688,
+    "type": "Resource",
+    "level": 192,
+    "image": "https://example.com/images/item_10688.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 689": {
+    "id": 10689,
+    "type": "Consumable",
+    "level": 83,
+    "image": "https://example.com/images/item_10689.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 690": {
+    "id": 10690,
+    "type": "Equipment",
+    "level": 110,
+    "image": "https://example.com/images/item_10690.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 691": {
+    "id": 10691,
+    "type": "Equipment",
+    "level": 140,
+    "image": "https://example.com/images/item_10691.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 692": {
+    "id": 10692,
+    "type": "Equipment",
+    "level": 200,
+    "image": "https://example.com/images/item_10692.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 693": {
+    "id": 10693,
+    "type": "Equipment",
+    "level": 181,
+    "image": "https://example.com/images/item_10693.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 694": {
+    "id": 10694,
+    "type": "Resource",
+    "level": 148,
+    "image": "https://example.com/images/item_10694.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 695": {
+    "id": 10695,
+    "type": "Consumable",
+    "level": 28,
+    "image": "https://example.com/images/item_10695.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 696": {
+    "id": 10696,
+    "type": "Equipment",
+    "level": 102,
+    "image": "https://example.com/images/item_10696.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 697": {
+    "id": 10697,
+    "type": "Consumable",
+    "level": 170,
+    "image": "https://example.com/images/item_10697.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 698": {
+    "id": 10698,
+    "type": "Equipment",
+    "level": 125,
+    "image": "https://example.com/images/item_10698.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 699": {
+    "id": 10699,
+    "type": "Consumable",
+    "level": 146,
+    "image": "https://example.com/images/item_10699.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 700": {
+    "id": 10700,
+    "type": "Resource",
+    "level": 191,
+    "image": "https://example.com/images/item_10700.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 701": {
+    "id": 10701,
+    "type": "Resource",
+    "level": 73,
+    "image": "https://example.com/images/item_10701.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 702": {
+    "id": 10702,
+    "type": "Equipment",
+    "level": 163,
+    "image": "https://example.com/images/item_10702.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 703": {
+    "id": 10703,
+    "type": "Resource",
+    "level": 66,
+    "image": "https://example.com/images/item_10703.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 704": {
+    "id": 10704,
+    "type": "Resource",
+    "level": 164,
+    "image": "https://example.com/images/item_10704.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 705": {
+    "id": 10705,
+    "type": "Equipment",
+    "level": 188,
+    "image": "https://example.com/images/item_10705.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 706": {
+    "id": 10706,
+    "type": "Equipment",
+    "level": 181,
+    "image": "https://example.com/images/item_10706.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 707": {
+    "id": 10707,
+    "type": "Consumable",
+    "level": 60,
+    "image": "https://example.com/images/item_10707.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 708": {
+    "id": 10708,
+    "type": "Resource",
+    "level": 52,
+    "image": "https://example.com/images/item_10708.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 709": {
+    "id": 10709,
+    "type": "Consumable",
+    "level": 62,
+    "image": "https://example.com/images/item_10709.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 710": {
+    "id": 10710,
+    "type": "Resource",
+    "level": 92,
+    "image": "https://example.com/images/item_10710.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 711": {
+    "id": 10711,
+    "type": "Equipment",
+    "level": 72,
+    "image": "https://example.com/images/item_10711.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 712": {
+    "id": 10712,
+    "type": "Resource",
+    "level": 178,
+    "image": "https://example.com/images/item_10712.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 713": {
+    "id": 10713,
+    "type": "Equipment",
+    "level": 134,
+    "image": "https://example.com/images/item_10713.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 714": {
+    "id": 10714,
+    "type": "Equipment",
+    "level": 58,
+    "image": "https://example.com/images/item_10714.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 715": {
+    "id": 10715,
+    "type": "Resource",
+    "level": 34,
+    "image": "https://example.com/images/item_10715.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 716": {
+    "id": 10716,
+    "type": "Resource",
+    "level": 64,
+    "image": "https://example.com/images/item_10716.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 717": {
+    "id": 10717,
+    "type": "Consumable",
+    "level": 60,
+    "image": "https://example.com/images/item_10717.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 718": {
+    "id": 10718,
+    "type": "Equipment",
+    "level": 20,
+    "image": "https://example.com/images/item_10718.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 719": {
+    "id": 10719,
+    "type": "Equipment",
+    "level": 17,
+    "image": "https://example.com/images/item_10719.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 720": {
+    "id": 10720,
+    "type": "Consumable",
+    "level": 120,
+    "image": "https://example.com/images/item_10720.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 721": {
+    "id": 10721,
+    "type": "Consumable",
+    "level": 36,
+    "image": "https://example.com/images/item_10721.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 722": {
+    "id": 10722,
+    "type": "Resource",
+    "level": 108,
+    "image": "https://example.com/images/item_10722.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 723": {
+    "id": 10723,
+    "type": "Resource",
+    "level": 145,
+    "image": "https://example.com/images/item_10723.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 724": {
+    "id": 10724,
+    "type": "Consumable",
+    "level": 149,
+    "image": "https://example.com/images/item_10724.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 725": {
+    "id": 10725,
+    "type": "Consumable",
+    "level": 190,
+    "image": "https://example.com/images/item_10725.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 726": {
+    "id": 10726,
+    "type": "Resource",
+    "level": 73,
+    "image": "https://example.com/images/item_10726.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 727": {
+    "id": 10727,
+    "type": "Consumable",
+    "level": 153,
+    "image": "https://example.com/images/item_10727.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 728": {
+    "id": 10728,
+    "type": "Equipment",
+    "level": 42,
+    "image": "https://example.com/images/item_10728.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 729": {
+    "id": 10729,
+    "type": "Consumable",
+    "level": 68,
+    "image": "https://example.com/images/item_10729.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 730": {
+    "id": 10730,
+    "type": "Consumable",
+    "level": 191,
+    "image": "https://example.com/images/item_10730.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 731": {
+    "id": 10731,
+    "type": "Consumable",
+    "level": 122,
+    "image": "https://example.com/images/item_10731.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 732": {
+    "id": 10732,
+    "type": "Consumable",
+    "level": 1,
+    "image": "https://example.com/images/item_10732.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 733": {
+    "id": 10733,
+    "type": "Equipment",
+    "level": 154,
+    "image": "https://example.com/images/item_10733.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 734": {
+    "id": 10734,
+    "type": "Equipment",
+    "level": 168,
+    "image": "https://example.com/images/item_10734.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 735": {
+    "id": 10735,
+    "type": "Resource",
+    "level": 105,
+    "image": "https://example.com/images/item_10735.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 736": {
+    "id": 10736,
+    "type": "Equipment",
+    "level": 48,
+    "image": "https://example.com/images/item_10736.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 737": {
+    "id": 10737,
+    "type": "Equipment",
+    "level": 147,
+    "image": "https://example.com/images/item_10737.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 738": {
+    "id": 10738,
+    "type": "Consumable",
+    "level": 110,
+    "image": "https://example.com/images/item_10738.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 739": {
+    "id": 10739,
+    "type": "Equipment",
+    "level": 140,
+    "image": "https://example.com/images/item_10739.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 740": {
+    "id": 10740,
+    "type": "Consumable",
+    "level": 18,
+    "image": "https://example.com/images/item_10740.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 741": {
+    "id": 10741,
+    "type": "Consumable",
+    "level": 1,
+    "image": "https://example.com/images/item_10741.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 742": {
+    "id": 10742,
+    "type": "Equipment",
+    "level": 152,
+    "image": "https://example.com/images/item_10742.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 743": {
+    "id": 10743,
+    "type": "Consumable",
+    "level": 129,
+    "image": "https://example.com/images/item_10743.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 744": {
+    "id": 10744,
+    "type": "Consumable",
+    "level": 75,
+    "image": "https://example.com/images/item_10744.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 745": {
+    "id": 10745,
+    "type": "Equipment",
+    "level": 108,
+    "image": "https://example.com/images/item_10745.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 746": {
+    "id": 10746,
+    "type": "Consumable",
+    "level": 62,
+    "image": "https://example.com/images/item_10746.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 747": {
+    "id": 10747,
+    "type": "Consumable",
+    "level": 108,
+    "image": "https://example.com/images/item_10747.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 748": {
+    "id": 10748,
+    "type": "Resource",
+    "level": 21,
+    "image": "https://example.com/images/item_10748.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 749": {
+    "id": 10749,
+    "type": "Equipment",
+    "level": 99,
+    "image": "https://example.com/images/item_10749.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 750": {
+    "id": 10750,
+    "type": "Equipment",
+    "level": 25,
+    "image": "https://example.com/images/item_10750.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 751": {
+    "id": 10751,
+    "type": "Equipment",
+    "level": 76,
+    "image": "https://example.com/images/item_10751.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 752": {
+    "id": 10752,
+    "type": "Resource",
+    "level": 50,
+    "image": "https://example.com/images/item_10752.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 753": {
+    "id": 10753,
+    "type": "Equipment",
+    "level": 16,
+    "image": "https://example.com/images/item_10753.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 754": {
+    "id": 10754,
+    "type": "Equipment",
+    "level": 78,
+    "image": "https://example.com/images/item_10754.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 755": {
+    "id": 10755,
+    "type": "Resource",
+    "level": 157,
+    "image": "https://example.com/images/item_10755.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 756": {
+    "id": 10756,
+    "type": "Resource",
+    "level": 132,
+    "image": "https://example.com/images/item_10756.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 757": {
+    "id": 10757,
+    "type": "Resource",
+    "level": 150,
+    "image": "https://example.com/images/item_10757.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 758": {
+    "id": 10758,
+    "type": "Consumable",
+    "level": 58,
+    "image": "https://example.com/images/item_10758.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 759": {
+    "id": 10759,
+    "type": "Consumable",
+    "level": 45,
+    "image": "https://example.com/images/item_10759.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 760": {
+    "id": 10760,
+    "type": "Resource",
+    "level": 78,
+    "image": "https://example.com/images/item_10760.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 761": {
+    "id": 10761,
+    "type": "Equipment",
+    "level": 160,
+    "image": "https://example.com/images/item_10761.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 762": {
+    "id": 10762,
+    "type": "Consumable",
+    "level": 85,
+    "image": "https://example.com/images/item_10762.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 763": {
+    "id": 10763,
+    "type": "Equipment",
+    "level": 84,
+    "image": "https://example.com/images/item_10763.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 764": {
+    "id": 10764,
+    "type": "Consumable",
+    "level": 79,
+    "image": "https://example.com/images/item_10764.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 765": {
+    "id": 10765,
+    "type": "Equipment",
+    "level": 63,
+    "image": "https://example.com/images/item_10765.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 766": {
+    "id": 10766,
+    "type": "Equipment",
+    "level": 45,
+    "image": "https://example.com/images/item_10766.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 767": {
+    "id": 10767,
+    "type": "Consumable",
+    "level": 101,
+    "image": "https://example.com/images/item_10767.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 768": {
+    "id": 10768,
+    "type": "Equipment",
+    "level": 61,
+    "image": "https://example.com/images/item_10768.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 769": {
+    "id": 10769,
+    "type": "Resource",
+    "level": 107,
+    "image": "https://example.com/images/item_10769.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 770": {
+    "id": 10770,
+    "type": "Consumable",
+    "level": 119,
+    "image": "https://example.com/images/item_10770.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 771": {
+    "id": 10771,
+    "type": "Resource",
+    "level": 185,
+    "image": "https://example.com/images/item_10771.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 772": {
+    "id": 10772,
+    "type": "Equipment",
+    "level": 100,
+    "image": "https://example.com/images/item_10772.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 773": {
+    "id": 10773,
+    "type": "Consumable",
+    "level": 113,
+    "image": "https://example.com/images/item_10773.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 774": {
+    "id": 10774,
+    "type": "Equipment",
+    "level": 74,
+    "image": "https://example.com/images/item_10774.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 775": {
+    "id": 10775,
+    "type": "Consumable",
+    "level": 38,
+    "image": "https://example.com/images/item_10775.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 776": {
+    "id": 10776,
+    "type": "Equipment",
+    "level": 98,
+    "image": "https://example.com/images/item_10776.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 777": {
+    "id": 10777,
+    "type": "Consumable",
+    "level": 82,
+    "image": "https://example.com/images/item_10777.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 778": {
+    "id": 10778,
+    "type": "Equipment",
+    "level": 195,
+    "image": "https://example.com/images/item_10778.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 779": {
+    "id": 10779,
+    "type": "Equipment",
+    "level": 83,
+    "image": "https://example.com/images/item_10779.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 780": {
+    "id": 10780,
+    "type": "Resource",
+    "level": 151,
+    "image": "https://example.com/images/item_10780.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 781": {
+    "id": 10781,
+    "type": "Consumable",
+    "level": 139,
+    "image": "https://example.com/images/item_10781.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 782": {
+    "id": 10782,
+    "type": "Equipment",
+    "level": 39,
+    "image": "https://example.com/images/item_10782.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 783": {
+    "id": 10783,
+    "type": "Equipment",
+    "level": 139,
+    "image": "https://example.com/images/item_10783.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 784": {
+    "id": 10784,
+    "type": "Resource",
+    "level": 114,
+    "image": "https://example.com/images/item_10784.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 785": {
+    "id": 10785,
+    "type": "Resource",
+    "level": 15,
+    "image": "https://example.com/images/item_10785.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 786": {
+    "id": 10786,
+    "type": "Consumable",
+    "level": 138,
+    "image": "https://example.com/images/item_10786.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 787": {
+    "id": 10787,
+    "type": "Resource",
+    "level": 144,
+    "image": "https://example.com/images/item_10787.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 788": {
+    "id": 10788,
+    "type": "Equipment",
+    "level": 155,
+    "image": "https://example.com/images/item_10788.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 789": {
+    "id": 10789,
+    "type": "Equipment",
+    "level": 68,
+    "image": "https://example.com/images/item_10789.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 790": {
+    "id": 10790,
+    "type": "Resource",
+    "level": 112,
+    "image": "https://example.com/images/item_10790.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 791": {
+    "id": 10791,
+    "type": "Equipment",
+    "level": 107,
+    "image": "https://example.com/images/item_10791.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 792": {
+    "id": 10792,
+    "type": "Equipment",
+    "level": 70,
+    "image": "https://example.com/images/item_10792.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 793": {
+    "id": 10793,
+    "type": "Resource",
+    "level": 167,
+    "image": "https://example.com/images/item_10793.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 794": {
+    "id": 10794,
+    "type": "Equipment",
+    "level": 106,
+    "image": "https://example.com/images/item_10794.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 795": {
+    "id": 10795,
+    "type": "Resource",
+    "level": 103,
+    "image": "https://example.com/images/item_10795.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 796": {
+    "id": 10796,
+    "type": "Equipment",
+    "level": 37,
+    "image": "https://example.com/images/item_10796.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 797": {
+    "id": 10797,
+    "type": "Consumable",
+    "level": 119,
+    "image": "https://example.com/images/item_10797.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 798": {
+    "id": 10798,
+    "type": "Equipment",
+    "level": 12,
+    "image": "https://example.com/images/item_10798.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 799": {
+    "id": 10799,
+    "type": "Equipment",
+    "level": 142,
+    "image": "https://example.com/images/item_10799.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 800": {
+    "id": 10800,
+    "type": "Equipment",
+    "level": 192,
+    "image": "https://example.com/images/item_10800.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 801": {
+    "id": 10801,
+    "type": "Equipment",
+    "level": 54,
+    "image": "https://example.com/images/item_10801.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 802": {
+    "id": 10802,
+    "type": "Resource",
+    "level": 30,
+    "image": "https://example.com/images/item_10802.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 803": {
+    "id": 10803,
+    "type": "Consumable",
+    "level": 43,
+    "image": "https://example.com/images/item_10803.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 804": {
+    "id": 10804,
+    "type": "Consumable",
+    "level": 89,
+    "image": "https://example.com/images/item_10804.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 805": {
+    "id": 10805,
+    "type": "Consumable",
+    "level": 150,
+    "image": "https://example.com/images/item_10805.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 806": {
+    "id": 10806,
+    "type": "Equipment",
+    "level": 23,
+    "image": "https://example.com/images/item_10806.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 807": {
+    "id": 10807,
+    "type": "Resource",
+    "level": 25,
+    "image": "https://example.com/images/item_10807.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 808": {
+    "id": 10808,
+    "type": "Equipment",
+    "level": 183,
+    "image": "https://example.com/images/item_10808.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 809": {
+    "id": 10809,
+    "type": "Equipment",
+    "level": 102,
+    "image": "https://example.com/images/item_10809.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 810": {
+    "id": 10810,
+    "type": "Equipment",
+    "level": 83,
+    "image": "https://example.com/images/item_10810.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 811": {
+    "id": 10811,
+    "type": "Consumable",
+    "level": 166,
+    "image": "https://example.com/images/item_10811.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 812": {
+    "id": 10812,
+    "type": "Consumable",
+    "level": 137,
+    "image": "https://example.com/images/item_10812.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 813": {
+    "id": 10813,
+    "type": "Consumable",
+    "level": 56,
+    "image": "https://example.com/images/item_10813.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 814": {
+    "id": 10814,
+    "type": "Resource",
+    "level": 108,
+    "image": "https://example.com/images/item_10814.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 815": {
+    "id": 10815,
+    "type": "Resource",
+    "level": 24,
+    "image": "https://example.com/images/item_10815.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 816": {
+    "id": 10816,
+    "type": "Consumable",
+    "level": 53,
+    "image": "https://example.com/images/item_10816.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 817": {
+    "id": 10817,
+    "type": "Resource",
+    "level": 85,
+    "image": "https://example.com/images/item_10817.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 818": {
+    "id": 10818,
+    "type": "Resource",
+    "level": 166,
+    "image": "https://example.com/images/item_10818.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 819": {
+    "id": 10819,
+    "type": "Resource",
+    "level": 125,
+    "image": "https://example.com/images/item_10819.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 820": {
+    "id": 10820,
+    "type": "Equipment",
+    "level": 31,
+    "image": "https://example.com/images/item_10820.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 821": {
+    "id": 10821,
+    "type": "Consumable",
+    "level": 88,
+    "image": "https://example.com/images/item_10821.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 822": {
+    "id": 10822,
+    "type": "Resource",
+    "level": 51,
+    "image": "https://example.com/images/item_10822.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 823": {
+    "id": 10823,
+    "type": "Consumable",
+    "level": 27,
+    "image": "https://example.com/images/item_10823.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 824": {
+    "id": 10824,
+    "type": "Resource",
+    "level": 31,
+    "image": "https://example.com/images/item_10824.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 825": {
+    "id": 10825,
+    "type": "Resource",
+    "level": 143,
+    "image": "https://example.com/images/item_10825.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 826": {
+    "id": 10826,
+    "type": "Equipment",
+    "level": 198,
+    "image": "https://example.com/images/item_10826.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 827": {
+    "id": 10827,
+    "type": "Consumable",
+    "level": 147,
+    "image": "https://example.com/images/item_10827.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 828": {
+    "id": 10828,
+    "type": "Equipment",
+    "level": 157,
+    "image": "https://example.com/images/item_10828.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 829": {
+    "id": 10829,
+    "type": "Consumable",
+    "level": 30,
+    "image": "https://example.com/images/item_10829.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 830": {
+    "id": 10830,
+    "type": "Consumable",
+    "level": 150,
+    "image": "https://example.com/images/item_10830.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 831": {
+    "id": 10831,
+    "type": "Resource",
+    "level": 31,
+    "image": "https://example.com/images/item_10831.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 832": {
+    "id": 10832,
+    "type": "Resource",
+    "level": 47,
+    "image": "https://example.com/images/item_10832.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 833": {
+    "id": 10833,
+    "type": "Resource",
+    "level": 106,
+    "image": "https://example.com/images/item_10833.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 834": {
+    "id": 10834,
+    "type": "Equipment",
+    "level": 88,
+    "image": "https://example.com/images/item_10834.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 835": {
+    "id": 10835,
+    "type": "Equipment",
+    "level": 112,
+    "image": "https://example.com/images/item_10835.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 836": {
+    "id": 10836,
+    "type": "Equipment",
+    "level": 35,
+    "image": "https://example.com/images/item_10836.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 837": {
+    "id": 10837,
+    "type": "Equipment",
+    "level": 74,
+    "image": "https://example.com/images/item_10837.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 838": {
+    "id": 10838,
+    "type": "Consumable",
+    "level": 19,
+    "image": "https://example.com/images/item_10838.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 839": {
+    "id": 10839,
+    "type": "Equipment",
+    "level": 174,
+    "image": "https://example.com/images/item_10839.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 840": {
+    "id": 10840,
+    "type": "Consumable",
+    "level": 71,
+    "image": "https://example.com/images/item_10840.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 841": {
+    "id": 10841,
+    "type": "Resource",
+    "level": 168,
+    "image": "https://example.com/images/item_10841.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 842": {
+    "id": 10842,
+    "type": "Equipment",
+    "level": 129,
+    "image": "https://example.com/images/item_10842.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 843": {
+    "id": 10843,
+    "type": "Consumable",
+    "level": 92,
+    "image": "https://example.com/images/item_10843.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 844": {
+    "id": 10844,
+    "type": "Consumable",
+    "level": 191,
+    "image": "https://example.com/images/item_10844.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 845": {
+    "id": 10845,
+    "type": "Consumable",
+    "level": 162,
+    "image": "https://example.com/images/item_10845.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 846": {
+    "id": 10846,
+    "type": "Equipment",
+    "level": 161,
+    "image": "https://example.com/images/item_10846.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 847": {
+    "id": 10847,
+    "type": "Consumable",
+    "level": 31,
+    "image": "https://example.com/images/item_10847.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 848": {
+    "id": 10848,
+    "type": "Equipment",
+    "level": 138,
+    "image": "https://example.com/images/item_10848.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 849": {
+    "id": 10849,
+    "type": "Equipment",
+    "level": 70,
+    "image": "https://example.com/images/item_10849.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 850": {
+    "id": 10850,
+    "type": "Consumable",
+    "level": 177,
+    "image": "https://example.com/images/item_10850.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 851": {
+    "id": 10851,
+    "type": "Resource",
+    "level": 4,
+    "image": "https://example.com/images/item_10851.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 852": {
+    "id": 10852,
+    "type": "Consumable",
+    "level": 140,
+    "image": "https://example.com/images/item_10852.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 853": {
+    "id": 10853,
+    "type": "Consumable",
+    "level": 196,
+    "image": "https://example.com/images/item_10853.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 854": {
+    "id": 10854,
+    "type": "Consumable",
+    "level": 39,
+    "image": "https://example.com/images/item_10854.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 855": {
+    "id": 10855,
+    "type": "Equipment",
+    "level": 77,
+    "image": "https://example.com/images/item_10855.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 856": {
+    "id": 10856,
+    "type": "Equipment",
+    "level": 166,
+    "image": "https://example.com/images/item_10856.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 857": {
+    "id": 10857,
+    "type": "Resource",
+    "level": 19,
+    "image": "https://example.com/images/item_10857.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 858": {
+    "id": 10858,
+    "type": "Consumable",
+    "level": 114,
+    "image": "https://example.com/images/item_10858.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 859": {
+    "id": 10859,
+    "type": "Equipment",
+    "level": 99,
+    "image": "https://example.com/images/item_10859.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 860": {
+    "id": 10860,
+    "type": "Equipment",
+    "level": 23,
+    "image": "https://example.com/images/item_10860.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 861": {
+    "id": 10861,
+    "type": "Resource",
+    "level": 5,
+    "image": "https://example.com/images/item_10861.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 862": {
+    "id": 10862,
+    "type": "Equipment",
+    "level": 126,
+    "image": "https://example.com/images/item_10862.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 863": {
+    "id": 10863,
+    "type": "Equipment",
+    "level": 199,
+    "image": "https://example.com/images/item_10863.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 864": {
+    "id": 10864,
+    "type": "Equipment",
+    "level": 6,
+    "image": "https://example.com/images/item_10864.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 865": {
+    "id": 10865,
+    "type": "Resource",
+    "level": 132,
+    "image": "https://example.com/images/item_10865.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 866": {
+    "id": 10866,
+    "type": "Resource",
+    "level": 76,
+    "image": "https://example.com/images/item_10866.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 867": {
+    "id": 10867,
+    "type": "Resource",
+    "level": 66,
+    "image": "https://example.com/images/item_10867.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 868": {
+    "id": 10868,
+    "type": "Resource",
+    "level": 86,
+    "image": "https://example.com/images/item_10868.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 869": {
+    "id": 10869,
+    "type": "Resource",
+    "level": 16,
+    "image": "https://example.com/images/item_10869.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 870": {
+    "id": 10870,
+    "type": "Resource",
+    "level": 33,
+    "image": "https://example.com/images/item_10870.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 871": {
+    "id": 10871,
+    "type": "Resource",
+    "level": 164,
+    "image": "https://example.com/images/item_10871.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 872": {
+    "id": 10872,
+    "type": "Equipment",
+    "level": 146,
+    "image": "https://example.com/images/item_10872.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 873": {
+    "id": 10873,
+    "type": "Resource",
+    "level": 81,
+    "image": "https://example.com/images/item_10873.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 874": {
+    "id": 10874,
+    "type": "Consumable",
+    "level": 49,
+    "image": "https://example.com/images/item_10874.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 875": {
+    "id": 10875,
+    "type": "Equipment",
+    "level": 49,
+    "image": "https://example.com/images/item_10875.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 876": {
+    "id": 10876,
+    "type": "Resource",
+    "level": 125,
+    "image": "https://example.com/images/item_10876.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 877": {
+    "id": 10877,
+    "type": "Consumable",
+    "level": 8,
+    "image": "https://example.com/images/item_10877.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 878": {
+    "id": 10878,
+    "type": "Consumable",
+    "level": 63,
+    "image": "https://example.com/images/item_10878.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 879": {
+    "id": 10879,
+    "type": "Resource",
+    "level": 200,
+    "image": "https://example.com/images/item_10879.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 880": {
+    "id": 10880,
+    "type": "Consumable",
+    "level": 99,
+    "image": "https://example.com/images/item_10880.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 881": {
+    "id": 10881,
+    "type": "Resource",
+    "level": 105,
+    "image": "https://example.com/images/item_10881.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 882": {
+    "id": 10882,
+    "type": "Consumable",
+    "level": 69,
+    "image": "https://example.com/images/item_10882.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 883": {
+    "id": 10883,
+    "type": "Equipment",
+    "level": 49,
+    "image": "https://example.com/images/item_10883.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 884": {
+    "id": 10884,
+    "type": "Resource",
+    "level": 196,
+    "image": "https://example.com/images/item_10884.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 885": {
+    "id": 10885,
+    "type": "Consumable",
+    "level": 186,
+    "image": "https://example.com/images/item_10885.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 886": {
+    "id": 10886,
+    "type": "Consumable",
+    "level": 69,
+    "image": "https://example.com/images/item_10886.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 887": {
+    "id": 10887,
+    "type": "Equipment",
+    "level": 190,
+    "image": "https://example.com/images/item_10887.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 888": {
+    "id": 10888,
+    "type": "Consumable",
+    "level": 57,
+    "image": "https://example.com/images/item_10888.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 889": {
+    "id": 10889,
+    "type": "Equipment",
+    "level": 42,
+    "image": "https://example.com/images/item_10889.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 890": {
+    "id": 10890,
+    "type": "Resource",
+    "level": 69,
+    "image": "https://example.com/images/item_10890.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 891": {
+    "id": 10891,
+    "type": "Resource",
+    "level": 84,
+    "image": "https://example.com/images/item_10891.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 892": {
+    "id": 10892,
+    "type": "Resource",
+    "level": 113,
+    "image": "https://example.com/images/item_10892.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 893": {
+    "id": 10893,
+    "type": "Consumable",
+    "level": 135,
+    "image": "https://example.com/images/item_10893.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 894": {
+    "id": 10894,
+    "type": "Consumable",
+    "level": 110,
+    "image": "https://example.com/images/item_10894.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 895": {
+    "id": 10895,
+    "type": "Equipment",
+    "level": 106,
+    "image": "https://example.com/images/item_10895.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 896": {
+    "id": 10896,
+    "type": "Resource",
+    "level": 86,
+    "image": "https://example.com/images/item_10896.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 897": {
+    "id": 10897,
+    "type": "Equipment",
+    "level": 117,
+    "image": "https://example.com/images/item_10897.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 898": {
+    "id": 10898,
+    "type": "Equipment",
+    "level": 33,
+    "image": "https://example.com/images/item_10898.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 899": {
+    "id": 10899,
+    "type": "Resource",
+    "level": 102,
+    "image": "https://example.com/images/item_10899.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 900": {
+    "id": 10900,
+    "type": "Resource",
+    "level": 122,
+    "image": "https://example.com/images/item_10900.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 901": {
+    "id": 10901,
+    "type": "Resource",
+    "level": 75,
+    "image": "https://example.com/images/item_10901.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 902": {
+    "id": 10902,
+    "type": "Consumable",
+    "level": 189,
+    "image": "https://example.com/images/item_10902.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 903": {
+    "id": 10903,
+    "type": "Consumable",
+    "level": 168,
+    "image": "https://example.com/images/item_10903.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 904": {
+    "id": 10904,
+    "type": "Consumable",
+    "level": 188,
+    "image": "https://example.com/images/item_10904.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 905": {
+    "id": 10905,
+    "type": "Resource",
+    "level": 54,
+    "image": "https://example.com/images/item_10905.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 906": {
+    "id": 10906,
+    "type": "Resource",
+    "level": 136,
+    "image": "https://example.com/images/item_10906.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 907": {
+    "id": 10907,
+    "type": "Consumable",
+    "level": 10,
+    "image": "https://example.com/images/item_10907.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 908": {
+    "id": 10908,
+    "type": "Consumable",
+    "level": 50,
+    "image": "https://example.com/images/item_10908.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 909": {
+    "id": 10909,
+    "type": "Resource",
+    "level": 52,
+    "image": "https://example.com/images/item_10909.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 910": {
+    "id": 10910,
+    "type": "Resource",
+    "level": 39,
+    "image": "https://example.com/images/item_10910.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 911": {
+    "id": 10911,
+    "type": "Resource",
+    "level": 142,
+    "image": "https://example.com/images/item_10911.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 912": {
+    "id": 10912,
+    "type": "Equipment",
+    "level": 32,
+    "image": "https://example.com/images/item_10912.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 913": {
+    "id": 10913,
+    "type": "Equipment",
+    "level": 200,
+    "image": "https://example.com/images/item_10913.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 914": {
+    "id": 10914,
+    "type": "Consumable",
+    "level": 89,
+    "image": "https://example.com/images/item_10914.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 915": {
+    "id": 10915,
+    "type": "Equipment",
+    "level": 96,
+    "image": "https://example.com/images/item_10915.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 916": {
+    "id": 10916,
+    "type": "Resource",
+    "level": 38,
+    "image": "https://example.com/images/item_10916.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 917": {
+    "id": 10917,
+    "type": "Resource",
+    "level": 76,
+    "image": "https://example.com/images/item_10917.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 918": {
+    "id": 10918,
+    "type": "Consumable",
+    "level": 86,
+    "image": "https://example.com/images/item_10918.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 919": {
+    "id": 10919,
+    "type": "Resource",
+    "level": 172,
+    "image": "https://example.com/images/item_10919.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 920": {
+    "id": 10920,
+    "type": "Resource",
+    "level": 103,
+    "image": "https://example.com/images/item_10920.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 921": {
+    "id": 10921,
+    "type": "Consumable",
+    "level": 185,
+    "image": "https://example.com/images/item_10921.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 922": {
+    "id": 10922,
+    "type": "Consumable",
+    "level": 10,
+    "image": "https://example.com/images/item_10922.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 923": {
+    "id": 10923,
+    "type": "Resource",
+    "level": 62,
+    "image": "https://example.com/images/item_10923.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 924": {
+    "id": 10924,
+    "type": "Equipment",
+    "level": 24,
+    "image": "https://example.com/images/item_10924.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 925": {
+    "id": 10925,
+    "type": "Consumable",
+    "level": 26,
+    "image": "https://example.com/images/item_10925.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 926": {
+    "id": 10926,
+    "type": "Equipment",
+    "level": 117,
+    "image": "https://example.com/images/item_10926.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 927": {
+    "id": 10927,
+    "type": "Consumable",
+    "level": 31,
+    "image": "https://example.com/images/item_10927.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 928": {
+    "id": 10928,
+    "type": "Resource",
+    "level": 8,
+    "image": "https://example.com/images/item_10928.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 929": {
+    "id": 10929,
+    "type": "Consumable",
+    "level": 25,
+    "image": "https://example.com/images/item_10929.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 930": {
+    "id": 10930,
+    "type": "Resource",
+    "level": 75,
+    "image": "https://example.com/images/item_10930.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 931": {
+    "id": 10931,
+    "type": "Consumable",
+    "level": 158,
+    "image": "https://example.com/images/item_10931.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 932": {
+    "id": 10932,
+    "type": "Consumable",
+    "level": 117,
+    "image": "https://example.com/images/item_10932.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 933": {
+    "id": 10933,
+    "type": "Equipment",
+    "level": 199,
+    "image": "https://example.com/images/item_10933.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 934": {
+    "id": 10934,
+    "type": "Equipment",
+    "level": 14,
+    "image": "https://example.com/images/item_10934.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 935": {
+    "id": 10935,
+    "type": "Equipment",
+    "level": 65,
+    "image": "https://example.com/images/item_10935.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 936": {
+    "id": 10936,
+    "type": "Equipment",
+    "level": 22,
+    "image": "https://example.com/images/item_10936.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 937": {
+    "id": 10937,
+    "type": "Equipment",
+    "level": 127,
+    "image": "https://example.com/images/item_10937.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 938": {
+    "id": 10938,
+    "type": "Consumable",
+    "level": 18,
+    "image": "https://example.com/images/item_10938.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 939": {
+    "id": 10939,
+    "type": "Resource",
+    "level": 194,
+    "image": "https://example.com/images/item_10939.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 940": {
+    "id": 10940,
+    "type": "Consumable",
+    "level": 129,
+    "image": "https://example.com/images/item_10940.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 941": {
+    "id": 10941,
+    "type": "Consumable",
+    "level": 106,
+    "image": "https://example.com/images/item_10941.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 942": {
+    "id": 10942,
+    "type": "Resource",
+    "level": 176,
+    "image": "https://example.com/images/item_10942.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 943": {
+    "id": 10943,
+    "type": "Consumable",
+    "level": 107,
+    "image": "https://example.com/images/item_10943.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 944": {
+    "id": 10944,
+    "type": "Equipment",
+    "level": 194,
+    "image": "https://example.com/images/item_10944.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 945": {
+    "id": 10945,
+    "type": "Consumable",
+    "level": 53,
+    "image": "https://example.com/images/item_10945.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 946": {
+    "id": 10946,
+    "type": "Equipment",
+    "level": 194,
+    "image": "https://example.com/images/item_10946.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 947": {
+    "id": 10947,
+    "type": "Equipment",
+    "level": 186,
+    "image": "https://example.com/images/item_10947.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 948": {
+    "id": 10948,
+    "type": "Resource",
+    "level": 15,
+    "image": "https://example.com/images/item_10948.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 949": {
+    "id": 10949,
+    "type": "Consumable",
+    "level": 15,
+    "image": "https://example.com/images/item_10949.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 950": {
+    "id": 10950,
+    "type": "Consumable",
+    "level": 144,
+    "image": "https://example.com/images/item_10950.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 951": {
+    "id": 10951,
+    "type": "Resource",
+    "level": 41,
+    "image": "https://example.com/images/item_10951.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 952": {
+    "id": 10952,
+    "type": "Consumable",
+    "level": 186,
+    "image": "https://example.com/images/item_10952.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 953": {
+    "id": 10953,
+    "type": "Equipment",
+    "level": 34,
+    "image": "https://example.com/images/item_10953.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 954": {
+    "id": 10954,
+    "type": "Equipment",
+    "level": 171,
+    "image": "https://example.com/images/item_10954.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 955": {
+    "id": 10955,
+    "type": "Equipment",
+    "level": 158,
+    "image": "https://example.com/images/item_10955.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 956": {
+    "id": 10956,
+    "type": "Consumable",
+    "level": 10,
+    "image": "https://example.com/images/item_10956.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 957": {
+    "id": 10957,
+    "type": "Equipment",
+    "level": 115,
+    "image": "https://example.com/images/item_10957.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 958": {
+    "id": 10958,
+    "type": "Consumable",
+    "level": 194,
+    "image": "https://example.com/images/item_10958.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 959": {
+    "id": 10959,
+    "type": "Resource",
+    "level": 33,
+    "image": "https://example.com/images/item_10959.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 960": {
+    "id": 10960,
+    "type": "Resource",
+    "level": 130,
+    "image": "https://example.com/images/item_10960.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 961": {
+    "id": 10961,
+    "type": "Resource",
+    "level": 78,
+    "image": "https://example.com/images/item_10961.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 962": {
+    "id": 10962,
+    "type": "Consumable",
+    "level": 158,
+    "image": "https://example.com/images/item_10962.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 963": {
+    "id": 10963,
+    "type": "Equipment",
+    "level": 106,
+    "image": "https://example.com/images/item_10963.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 964": {
+    "id": 10964,
+    "type": "Consumable",
+    "level": 29,
+    "image": "https://example.com/images/item_10964.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 965": {
+    "id": 10965,
+    "type": "Resource",
+    "level": 62,
+    "image": "https://example.com/images/item_10965.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 966": {
+    "id": 10966,
+    "type": "Consumable",
+    "level": 199,
+    "image": "https://example.com/images/item_10966.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 967": {
+    "id": 10967,
+    "type": "Resource",
+    "level": 41,
+    "image": "https://example.com/images/item_10967.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 968": {
+    "id": 10968,
+    "type": "Consumable",
+    "level": 71,
+    "image": "https://example.com/images/item_10968.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 969": {
+    "id": 10969,
+    "type": "Consumable",
+    "level": 136,
+    "image": "https://example.com/images/item_10969.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 970": {
+    "id": 10970,
+    "type": "Consumable",
+    "level": 159,
+    "image": "https://example.com/images/item_10970.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 971": {
+    "id": 10971,
+    "type": "Resource",
+    "level": 48,
+    "image": "https://example.com/images/item_10971.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 972": {
+    "id": 10972,
+    "type": "Equipment",
+    "level": 195,
+    "image": "https://example.com/images/item_10972.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 973": {
+    "id": 10973,
+    "type": "Consumable",
+    "level": 9,
+    "image": "https://example.com/images/item_10973.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 974": {
+    "id": 10974,
+    "type": "Resource",
+    "level": 172,
+    "image": "https://example.com/images/item_10974.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 975": {
+    "id": 10975,
+    "type": "Resource",
+    "level": 77,
+    "image": "https://example.com/images/item_10975.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 976": {
+    "id": 10976,
+    "type": "Consumable",
+    "level": 9,
+    "image": "https://example.com/images/item_10976.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 977": {
+    "id": 10977,
+    "type": "Consumable",
+    "level": 138,
+    "image": "https://example.com/images/item_10977.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 978": {
+    "id": 10978,
+    "type": "Resource",
+    "level": 100,
+    "image": "https://example.com/images/item_10978.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 979": {
+    "id": 10979,
+    "type": "Resource",
+    "level": 60,
+    "image": "https://example.com/images/item_10979.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 980": {
+    "id": 10980,
+    "type": "Consumable",
+    "level": 133,
+    "image": "https://example.com/images/item_10980.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 981": {
+    "id": 10981,
+    "type": "Equipment",
+    "level": 81,
+    "image": "https://example.com/images/item_10981.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 982": {
+    "id": 10982,
+    "type": "Resource",
+    "level": 109,
+    "image": "https://example.com/images/item_10982.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 983": {
+    "id": 10983,
+    "type": "Equipment",
+    "level": 17,
+    "image": "https://example.com/images/item_10983.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 984": {
+    "id": 10984,
+    "type": "Resource",
+    "level": 138,
+    "image": "https://example.com/images/item_10984.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 985": {
+    "id": 10985,
+    "type": "Resource",
+    "level": 38,
+    "image": "https://example.com/images/item_10985.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 986": {
+    "id": 10986,
+    "type": "Equipment",
+    "level": 122,
+    "image": "https://example.com/images/item_10986.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 987": {
+    "id": 10987,
+    "type": "Consumable",
+    "level": 53,
+    "image": "https://example.com/images/item_10987.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 988": {
+    "id": 10988,
+    "type": "Equipment",
+    "level": 175,
+    "image": "https://example.com/images/item_10988.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 989": {
+    "id": 10989,
+    "type": "Consumable",
+    "level": 11,
+    "image": "https://example.com/images/item_10989.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 990": {
+    "id": 10990,
+    "type": "Resource",
+    "level": 60,
+    "image": "https://example.com/images/item_10990.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 991": {
+    "id": 10991,
+    "type": "Consumable",
+    "level": 90,
+    "image": "https://example.com/images/item_10991.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 992": {
+    "id": 10992,
+    "type": "Consumable",
+    "level": 109,
+    "image": "https://example.com/images/item_10992.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 993": {
+    "id": 10993,
+    "type": "Equipment",
+    "level": 118,
+    "image": "https://example.com/images/item_10993.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 994": {
+    "id": 10994,
+    "type": "Resource",
+    "level": 149,
+    "image": "https://example.com/images/item_10994.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 995": {
+    "id": 10995,
+    "type": "Consumable",
+    "level": 18,
+    "image": "https://example.com/images/item_10995.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 996": {
+    "id": 10996,
+    "type": "Resource",
+    "level": 25,
+    "image": "https://example.com/images/item_10996.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 997": {
+    "id": 10997,
+    "type": "Equipment",
+    "level": 150,
+    "image": "https://example.com/images/item_10997.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 998": {
+    "id": 10998,
+    "type": "Equipment",
+    "level": 64,
+    "image": "https://example.com/images/item_10998.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 999": {
+    "id": 10999,
+    "type": "Consumable",
+    "level": 119,
+    "image": "https://example.com/images/item_10999.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  },
+  "Item 1000": {
+    "id": 11000,
+    "type": "Consumable",
+    "level": 176,
+    "image": "https://example.com/images/item_11000.png",
+    "stats": {
+      "dummy": "stat"
+    }
+  }
+}
