@@ -1,33 +1,15 @@
 [
   {
-    "_id": 21784,
-    "result": 16493,
+    "itemName": "Gobball Hat",
+    "level": 20,
     "ingredients": [
       {
-        "item": 18604,
-        "quantity": 5
-      },
-      {
-        "item": 18523,
+        "name": "Gobball Horn",
         "quantity": 3
       },
       {
-        "item": 17259,
+        "name": "Boar Leather",
         "quantity": 2
-      }
-    ]
-  },
-  {
-    "_id": 21785,
-    "result": 16494,
-    "ingredients": [
-      {
-        "item": 18605,
-        "quantity": 6
-      },
-      {
-        "item": 18524,
-        "quantity": 4
       }
     ]
   }
